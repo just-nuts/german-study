@@ -199,65 +199,71 @@ def append_log(line):
 def deploy_github_pages(git_token):
     """Commit and push site/ changes to gh-pages branch."""
     import subprocess as sp
-    import tempfile, shutil
+    import tempfile, shutil, os as _os
 
     repo = str(ROOT)
     site = str(SITE_DIR)
 
-    # Write GIT_ASKPASS helper
-    askpass = ROOT / '.git_askpass.sh'
-    askpass.write_text(f'#!/bin/bash\necho {git_token}\n')
-    askpass.chmod(0o700)
+    # Copy site contents to temp FIRST (before branch switch wipes them)
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp_site = _os.path.join(tmp, 'site')
+        shutil.copytree(site, tmp_site)
 
-    env = {**__import__('os').environ,
-           'GIT_ASKPASS': str(askpass),
-           'GIT_USERNAME': 'just-nuts'}
+        # Write GIT_ASKPASS helper
+        askpass = ROOT / '.git_askpass.sh'
+        askpass.write_text(f'#!/bin/bash\necho {git_token}\n')
+        askpass.chmod(0o700)
 
-    def git(*args):
-        return sp.run(['git'] + list(args), cwd=repo,
-                       capture_output=True, text=True, timeout=30, env=env)
+        env = {**_os.environ,
+               'GIT_ASKPASS': str(askpass),
+               'GIT_USERNAME': 'just-nuts'}
 
-    try:
-        # Stash any local changes on main
-        git('stash', '--include-untracked')
+        def git(*args):
+            return sp.run(['git'] + list(args), cwd=repo,
+                           capture_output=True, text=True, timeout=30, env=env)
 
-        # Switch to gh-pages
-        git('checkout', 'gh-pages')
+        try:
+            # Switch to gh-pages (site/ will vanish — that's OK, we saved a copy)
+            git('checkout', 'gh-pages')
 
-        # Remove all tracked files
-        git('rm', '-rf', '.')
+            # Remove all tracked files from gh-pages
+            git('rm', '-rf', '.')
 
-        # Copy site contents to root
-        for item in __import__('os').listdir(site):
-            src = __import__('os').path.join(site, item)
-            dst = __import__('os').path.join(repo, item)
-            if __import__('os').path.isdir(src):
-                shutil.copytree(src, dst, dirs_exist_ok=True)
-            else:
-                shutil.copy2(src, dst)
+            # Copy site contents from temp to repo root
+            for item in _os.listdir(tmp_site):
+                src = _os.path.join(tmp_site, item)
+                dst = _os.path.join(repo, item)
+                if _os.path.exists(dst):
+                    if _os.path.isdir(dst):
+                        shutil.rmtree(dst)
+                    else:
+                        _os.remove(dst)
+                if _os.path.isdir(src):
+                    shutil.copytree(src, dst)
+                else:
+                    shutil.copy2(src, dst)
 
-        # Ensure .nojekyll exists
-        (ROOT / '.nojekyll').write_text('')
+            # Ensure .nojekyll
+            (ROOT / '.nojekyll').write_text('')
 
-        # Commit
-        git('add', '-A')
-        today_str = __import__('datetime').date.today().isoformat()
-        r = git('commit', '-m', f'Update: {today_str}')
-        if r.returncode != 0 and 'nothing to commit' not in r.stdout + r.stderr:
-            raise RuntimeError(f'Commit failed: {r.stderr}')
+            # Commit
+            git('add', '-A')
+            today_str = __import__('datetime').date.today().isoformat()
+            r = git('commit', '-m', f'Update: {today_str}')
+            if r.returncode != 0 and 'nothing to commit' not in r.stdout + r.stderr:
+                raise RuntimeError(f'Commit failed: {r.stderr}')
 
-        # Push
-        r = git('push', 'origin', 'gh-pages')
-        if r.returncode != 0:
-            raise RuntimeError(f'Push failed: {r.stderr}')
+            # Push
+            r = git('push', 'origin', 'gh-pages')
+            if r.returncode != 0:
+                raise RuntimeError(f'Push failed: {r.stderr}')
 
-        # Back to main
-        git('checkout', 'main')
-        git('stash', 'pop')
+            # Back to main
+            git('checkout', 'main')
 
-        return True
-    finally:
-        askpass.unlink(missing_ok=True)
+            return True
+        finally:
+            askpass.unlink(missing_ok=True)
 
 
 def main():
