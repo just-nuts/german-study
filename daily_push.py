@@ -247,7 +247,7 @@ def deploy_github_pages(git_token):
             (ROOT / '.nojekyll').write_text('')
 
             # Stage only site content files (not askpass script, not .deploy_token)
-            git('add', 'index.html', 'plan.json', 'today.json', '.nojekyll')
+            git('add', '-A')
 
             # Commit
             today_str = __import__('datetime').date.today().isoformat()
