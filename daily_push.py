@@ -246,7 +246,10 @@ def deploy_github_pages(git_token):
             # Ensure .nojekyll
             (ROOT / '.nojekyll').write_text('')
 
-            # Stage only site content files (not askpass script, not .deploy_token)
+            # Write .gitignore for gh-pages (main's .gitignore is gone)
+            (ROOT / '.gitignore').write_text('.deploy_token\nlogs/\n__pycache__/\n.DS_Store\n.git_askpass.sh\n')
+
+            # Stage everything safe
             git('add', '-A')
 
             # Commit
