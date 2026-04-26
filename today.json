@@ -1,0 +1,68 @@
+{
+  "date": "2026-04-26",
+  "day": 1,
+  "level": "A1",
+  "phase": "A1 — Foundations: Survival German",
+  "topic": "Introducing Yourself: The Verb 'sein'",
+  "grammar_title": "Present tense of 'sein' (to be)",
+  "grammar_content": "The verb 'sein' is irregular — you must memorize it:\n\n```\nich bin      (I am)       wir sind     (we are)\ndu bist     (you are)    ihr seid     (you all are)\ner ist      (he is)      sie sind     (they are)\nsie ist     (she is)     Sie sind     (you formal are)\nes ist      (it is)\n```\n\n📌 'Sie' (capital S) = formal 'you' for strangers and business.\n📌 'sie' (lowercase) = 'she' or 'they' — context tells you which.",
+  "vocabulary": [
+    [
+      "Hallo",
+      "Hello"
+    ],
+    [
+      "Guten Morgen",
+      "Good morning"
+    ],
+    [
+      "Guten Tag",
+      "Good day"
+    ],
+    [
+      "Guten Abend",
+      "Good evening"
+    ],
+    [
+      "Tschüss",
+      "Bye (informal)"
+    ],
+    [
+      "Auf Wiedersehen",
+      "Goodbye (formal)"
+    ],
+    [
+      "Wie geht's?",
+      "How are you?"
+    ],
+    [
+      "Mir geht's gut",
+      "I'm fine"
+    ],
+    [
+      "Danke",
+      "Thank you"
+    ],
+    [
+      "Bitte",
+      "Please / You're welcome"
+    ],
+    [
+      "Ja",
+      "Yes"
+    ],
+    [
+      "Nein",
+      "No"
+    ]
+  ],
+  "exercises": [
+    "Conjugate: Ich ___ Anna. (sein)",
+    "Conjugate: Wir ___ müde. (sein)",
+    "Translate: Good evening, how are you?",
+    "Translate: I am fine, thank you. And you?"
+  ],
+  "tip": "💡 In German, you address adults you don't know with 'Sie' + last name. Using 'du' with strangers can be rude!",
+  "speaking_hw": "Practice saying 5 sentences using today's grammar and vocabulary aloud.",
+  "writing_hw": "Write 5 sentences using 12 of today's vocabulary words with correct grammar."
+}

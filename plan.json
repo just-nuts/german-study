@@ -1,0 +1,5514 @@
+[
+  {
+    "date": "2026-04-26",
+    "day": 1,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Introducing Yourself: The Verb 'sein'",
+    "grammar_title": "Present tense of 'sein' (to be)",
+    "grammar_content": "The verb 'sein' is irregular — you must memorize it:\n\n```\nich bin      (I am)       wir sind     (we are)\ndu bist     (you are)    ihr seid     (you all are)\ner ist      (he is)      sie sind     (they are)\nsie ist     (she is)     Sie sind     (you formal are)\nes ist      (it is)\n```\n\n📌 'Sie' (capital S) = formal 'you' for strangers and business.\n📌 'sie' (lowercase) = 'she' or 'they' — context tells you which.",
+    "vocabulary": [
+      [
+        "Hallo",
+        "Hello"
+      ],
+      [
+        "Guten Morgen",
+        "Good morning"
+      ],
+      [
+        "Guten Tag",
+        "Good day"
+      ],
+      [
+        "Guten Abend",
+        "Good evening"
+      ],
+      [
+        "Tschüss",
+        "Bye (informal)"
+      ],
+      [
+        "Auf Wiedersehen",
+        "Goodbye (formal)"
+      ],
+      [
+        "Wie geht's?",
+        "How are you?"
+      ],
+      [
+        "Mir geht's gut",
+        "I'm fine"
+      ],
+      [
+        "Danke",
+        "Thank you"
+      ],
+      [
+        "Bitte",
+        "Please / You're welcome"
+      ],
+      [
+        "Ja",
+        "Yes"
+      ],
+      [
+        "Nein",
+        "No"
+      ]
+    ],
+    "exercises": [
+      "Conjugate: Ich ___ Anna. (sein)",
+      "Conjugate: Wir ___ müde. (sein)",
+      "Translate: Good evening, how are you?",
+      "Translate: I am fine, thank you. And you?"
+    ],
+    "tip": "💡 In German, you address adults you don't know with 'Sie' + last name. Using 'du' with strangers can be rude!",
+    "speaking_hw": "Practice saying 5 sentences using today's grammar and vocabulary aloud.",
+    "writing_hw": "Write 5 sentences using 12 of today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-04-27",
+    "day": 2,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Where Are You From? Regular Verbs + 'kommen'",
+    "grammar_title": "Regular verb conjugation (present tense)",
+    "grammar_content": "Most German verbs follow this pattern. Take the stem (komm-) and add endings:\n\n```\nkommen (to come)          wohnen (to live)\nich komm-e                ich wohn-e\ndu komm-st                du wohn-st\ner/sie/es komm-t          er/sie/es wohn-t\nwir komm-en               wir wohn-en\nihr komm-t                ihr wohn-t\nsie/Sie komm-en           sie/Sie wohn-en\n```\n\n📌 Stem ends in -t/-d (like arbei-t-en)? Add -e- before -st/-t:\ndu arbeit-e-st, er arbeit-e-t",
+    "vocabulary": [
+      [
+        "kommen aus",
+        "to come from"
+      ],
+      [
+        "wohnen in",
+        "to live in"
+      ],
+      [
+        "heißen",
+        "to be called"
+      ],
+      [
+        "Deutschland",
+        "Germany"
+      ],
+      [
+        "China",
+        "China"
+      ],
+      [
+        "die Schweiz",
+        "Switzerland"
+      ],
+      [
+        "Österreich",
+        "Austria"
+      ],
+      [
+        "die Stadt",
+        "city"
+      ],
+      [
+        "das Land",
+        "country"
+      ],
+      [
+        "Woher?",
+        "Where from?"
+      ],
+      [
+        "Ich heiße...",
+        "My name is..."
+      ],
+      [
+        "auch",
+        "also/too"
+      ]
+    ],
+    "exercises": [
+      "Conjugate: Er ___ aus China. (kommen)",
+      "Conjugate: Wo ___ du? (wohnen)",
+      "Translate: My name is Anna. I come from Germany.",
+      "Fill in: Ich ___ in Berlin. (wohnen), und du? Wo ___ du?"
+    ],
+    "tip": "💡 'Woher kommst du?' = 'Where are you from?' Literally: 'Where-from come you?' German often puts the question word at the start.",
+    "speaking_hw": "Practice saying 5 sentences using today's grammar and vocabulary aloud.",
+    "writing_hw": "Write 5 sentences using 12 of today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-04-28",
+    "day": 3,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Family: The Verb 'haben' + Accusative",
+    "grammar_title": "Present tense of 'haben' (to have)",
+    "grammar_content": "'haben' is irregular — memorise it. It's your #2 most important verb after 'sein':\n\n```\nich habe     (I have)         wir haben     (we have)\ndu hast      (you have)       ihr habt      (you all have)\ner/sie/es hat (he/she/it has) sie/Sie haben (they/you formal have)\n```\n\n📌 After 'haben', the object is always in ACCUSATIVE case:\n• der → den:  Ich habe den Bruder. (I have the brother.)\n• ein → einen: Ich habe einen Bruder. (I have a brother.)\n• die/das → stays die/das: Ich habe die Schwester. Ich habe das Kind.",
+    "vocabulary": [
+      [
+        "die Familie",
+        "family"
+      ],
+      [
+        "die Mutter",
+        "mother"
+      ],
+      [
+        "der Vater",
+        "father"
+      ],
+      [
+        "der Bruder",
+        "brother"
+      ],
+      [
+        "die Schwester",
+        "sister"
+      ],
+      [
+        "das Kind",
+        "child"
+      ],
+      [
+        "die Eltern",
+        "parents"
+      ],
+      [
+        "die Geschwister",
+        "siblings"
+      ],
+      [
+        "die Oma / der Opa",
+        "grandma / grandpa"
+      ],
+      [
+        "verheiratet",
+        "married"
+      ],
+      [
+        "ledig",
+        "single"
+      ],
+      [
+        "Ich habe...",
+        "I have..."
+      ]
+    ],
+    "exercises": [
+      "Conjugate: Du ___ eine Schwester. (haben)",
+      "Conjugate: Wir ___ zwei Kinder. (haben)",
+      "Correct the article: Ich habe d__ Bruder. (accusative!)",
+      "Translate: I have a sister and a brother."
+    ],
+    "tip": "💡 'Geschwister' means siblings (brothers + sisters). German has no single word for just 'sibling' — use 'Bruder' or 'Schwester'.",
+    "speaking_hw": "Practice saying 5 sentences using today's grammar and vocabulary aloud.",
+    "writing_hw": "Write 5 sentences using 12 of today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-04-29",
+    "day": 4,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Food & Drink: Definite Articles (der/die/das)",
+    "grammar_title": "Noun gender and definite articles",
+    "grammar_content": "EVERY German noun has a gender. You must learn the article with the noun!\n\n```\nMASCULINE (der)     FEMININE (die)      NEUTER (das)\nder Apfel           die Banane           das Brot\nder Kaffee          die Milch            das Wasser\nder Käse            die Pizza            das Bier\nder Tee             die Suppe            das Ei\n```\n\n📌 Tips for guessing gender (not 100% but helpful):\n• -e ending → usually feminine (die Lampe, die Tasche)\n• -chen/-lein → always neuter (das Mädchen, das Brötchen)\n• -er ending → often masculine (der Lehrer, der Computer)",
+    "vocabulary": [
+      [
+        "der Apfel",
+        "apple"
+      ],
+      [
+        "die Banane",
+        "banana"
+      ],
+      [
+        "das Brot",
+        "bread"
+      ],
+      [
+        "der Kaffee",
+        "coffee"
+      ],
+      [
+        "die Milch",
+        "milk"
+      ],
+      [
+        "das Wasser",
+        "water"
+      ],
+      [
+        "der Käse",
+        "cheese"
+      ],
+      [
+        "die Pizza",
+        "pizza"
+      ],
+      [
+        "das Bier",
+        "beer"
+      ],
+      [
+        "der Tee",
+        "tea"
+      ],
+      [
+        "lecker",
+        "delicious"
+      ],
+      [
+        "trinken",
+        "to drink"
+      ],
+      [
+        "essen",
+        "to eat"
+      ]
+    ],
+    "exercises": [
+      "Give the article: ___ Kaffee (m/f/n?)",
+      "Give the article: ___ Milch (m/f/n?)",
+      "Give the article: ___ Wasser (m/f/n?)",
+      "Translate: The bread is delicious. I drink the coffee."
+    ],
+    "tip": "💡 Always learn nouns as 'der Tisch' not just 'Tisch'. This is THE most important habit for German learners!",
+    "speaking_hw": "Practice saying 5 sentences using today's grammar and vocabulary aloud.",
+    "writing_hw": "Write 5 sentences using 13 of today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-04-30",
+    "day": 5,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Shopping: Indefinite Articles (ein/eine)",
+    "grammar_title": "Indefinite articles and 'kein/keine'",
+    "grammar_content": "When you don't mean a specific thing, use indefinite articles:\n\n```\nMASCULINE: ein → einen (acc.)     Ich möchte einen Kaffee.\nFEMININE:  eine → eine (acc.)     Ich möchte eine Pizza.\nNEUTER:    ein → ein (acc.)       Ich möchte ein Bier.\n```\n\nFor negation, add 'k-' to 'ein':\n```\nkein / keine / kein = not a / no\nIch habe keinen Hunger. (I'm not hungry — lit. I have no hunger.)\nDas ist keine Banane. (That's not a banana.)\n```",
+    "vocabulary": [
+      [
+        "möchten",
+        "would like"
+      ],
+      [
+        "kaufen",
+        "to buy"
+      ],
+      [
+        "bezahlen",
+        "to pay"
+      ],
+      [
+        "der Preis",
+        "price"
+      ],
+      [
+        "billig",
+        "cheap"
+      ],
+      [
+        "teuer",
+        "expensive"
+      ],
+      [
+        "der Supermarkt",
+        "supermarket"
+      ],
+      [
+        "die Bäckerei",
+        "bakery"
+      ],
+      [
+        "wie viel?",
+        "how much?"
+      ],
+      [
+        "Das macht...",
+        "That comes to..."
+      ],
+      [
+        "sonst noch etwas?",
+        "anything else?"
+      ]
+    ],
+    "exercises": [
+      "Fill in: Ich möchte ___ Apfel. (ein/eine/einen)",
+      "Fill in: Das ist ___ Brot. (kein/keine)",
+      "Translate: I would like a coffee, please.",
+      "Correct: Ich möchte kein Pizza. → fix it."
+    ],
+    "tip": "💡 'möchten' (would like) is the polite form of 'mögen' (to like). Always use 'möchten' when ordering — 'Ich will' sounds demanding!",
+    "speaking_hw": "Practice saying 5 sentences using today's grammar and vocabulary aloud.",
+    "writing_hw": "Write 5 sentences using 11 of today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-01",
+    "day": 6,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Daily Routine: Separable Verbs",
+    "grammar_title": "Trennbare Verben (separable verbs)",
+    "grammar_content": "Some German verbs split in two! The prefix goes to the END of the sentence:\n\n```\naufstehen (to get up)\n→ Ich stehe um 7 Uhr auf.   (NOT: Ich aufstehe um 7 Uhr.)\n\nCommon separable verbs:\nauf·stehen   → Ich stehe auf.    (I get up.)\nein·kaufen   → Ich kaufe ein.    (I shop.)\nan·rufen     → Ich rufe an.      (I call.)\nfern·sehen   → Ich sehe fern.    (I watch TV.)\nan·fangen    → Es fängt an.      (It begins.)\n```\n\n📌 The prefix is stressed when speaking: AUFstehen, EINkaufen, ANrufen.",
+    "vocabulary": [
+      [
+        "aufstehen",
+        "to get up"
+      ],
+      [
+        "einkaufen",
+        "to go shopping"
+      ],
+      [
+        "anrufen",
+        "to call (phone)"
+      ],
+      [
+        "fernsehen",
+        "to watch TV"
+      ],
+      [
+        "anfangen",
+        "to begin"
+      ],
+      [
+        "aufräumen",
+        "to clean up"
+      ],
+      [
+        "der Morgen",
+        "morning"
+      ],
+      [
+        "früh",
+        "early"
+      ],
+      [
+        "spät",
+        "late"
+      ],
+      [
+        "jeden Tag",
+        "every day"
+      ],
+      [
+        "zuerst",
+        "first"
+      ],
+      [
+        "dann",
+        "then"
+      ]
+    ],
+    "exercises": [
+      "Rewrite: Ich aufstehe um 7 Uhr. → correct it.",
+      "Fill in: Er ___ um 8 Uhr ___. (aufstehen)",
+      "Fill in: Wir ___ am Samstag ___. (einkaufen)",
+      "Translate: I watch TV in the evening."
+    ],
+    "tip": "💡 The prefix always goes to the END. This trips up English speakers constantly — train this early!",
+    "speaking_hw": "Practice saying 5 sentences using today's grammar and vocabulary aloud.",
+    "writing_hw": "Write 5 sentences using 12 of today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-02",
+    "day": 7,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Hobbies: Modal Verb 'können'",
+    "grammar_title": "Modal verbs: können (can / to be able to)",
+    "grammar_content": "Modal verbs 'kick' the main verb to the END in infinitive form:\n\n```\nkönnen (can)\nich kann         wir können\ndu kannst        ihr könnt\ner/sie/es kann   sie/Sie können\n\nIch kann gut kochen.    (I can cook well.)\nKannst du schwimmen?     (Can you swim?)\nEr kann nicht kommen.    (He can't come.)\n```\n\n📌 Pattern: Subject + modal (conjugated) + ... + main verb (infinitive at END).",
+    "vocabulary": [
+      [
+        "schwimmen",
+        "to swim"
+      ],
+      [
+        "kochen",
+        "to cook"
+      ],
+      [
+        "tanzen",
+        "to dance"
+      ],
+      [
+        "singen",
+        "to sing"
+      ],
+      [
+        "spielen",
+        "to play"
+      ],
+      [
+        "Fußball",
+        "soccer"
+      ],
+      [
+        "das Klavier",
+        "piano"
+      ],
+      [
+        "die Gitarre",
+        "guitar"
+      ],
+      [
+        "gut",
+        "well"
+      ],
+      [
+        "nicht",
+        "not"
+      ],
+      [
+        "das Hobby",
+        "hobby"
+      ],
+      [
+        "die Freizeit",
+        "free time"
+      ]
+    ],
+    "exercises": [
+      "Conjugate: Ich ___ gut schwimmen. (können)",
+      "Conjugate: ___ du Klavier spielen? (können)",
+      "Translate: I can cook well.",
+      "Make a sentence: Er / nicht / können / tanzen"
+    ],
+    "tip": "💡 In German, 'können' means both 'can' (ability) and 'to know how to'. 'Ich kann Deutsch' = 'I can (speak) German'.",
+    "speaking_hw": "Practice saying 5 sentences using today's grammar and vocabulary aloud.",
+    "writing_hw": "Write 5 sentences using 12 of today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-03",
+    "day": 8,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Work & School: Modal Verb 'müssen'",
+    "grammar_title": "Modal verbs: müssen (must / have to)",
+    "grammar_content": "'müssen' expresses obligation or necessity:\n\n```\nmüssen (must, have to)\nich muss         wir müssen\ndu musst         ihr müsst\ner/sie/es muss   sie/Sie müssen\n\nIch muss arbeiten.       (I have to work.)\nMusst du zur Schule?     (Do you have to go to school?)\nWir müssen lernen.       (We must study.)\n```\n\n📌 Key difference: 'müssen' = external obligation. 'sollen' = advice/moral duty.",
+    "vocabulary": [
+      [
+        "der Beruf",
+        "profession"
+      ],
+      [
+        "arbeiten",
+        "to work"
+      ],
+      [
+        "lernen",
+        "to study/learn"
+      ],
+      [
+        "die Schule",
+        "school"
+      ],
+      [
+        "die Universität",
+        "university"
+      ],
+      [
+        "der Lehrer",
+        "teacher (male)"
+      ],
+      [
+        "die Lehrerin",
+        "teacher (female)"
+      ],
+      [
+        "der Student",
+        "student"
+      ],
+      [
+        "das Büro",
+        "office"
+      ],
+      [
+        "die Arbeit",
+        "work"
+      ],
+      [
+        "müssen",
+        "must/have to"
+      ],
+      [
+        "warum?",
+        "why?"
+      ]
+    ],
+    "exercises": [
+      "Conjugate: Wir ___ heute arbeiten. (müssen)",
+      "Conjugate: ___ du zur Schule gehen? (müssen)",
+      "Translate: I have to study German.",
+      "Make a sentence: Warum / du / müssen / lernen / ?"
+    ],
+    "tip": "💡 'Ich muss mal' = slang for 'I need to go to the bathroom'. Useful to know but don't say it in formal settings!",
+    "speaking_hw": "Practice saying 5 sentences using today's grammar and vocabulary aloud.",
+    "writing_hw": "Write 5 sentences using 12 of today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-04",
+    "day": 9,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Wishes: Modal Verb 'wollen' + 'möchten'",
+    "grammar_title": "Modal verbs: wollen (to want) vs möchten (would like)",
+    "grammar_content": "```\nwollen (to want — direct, strong)\nich will         wir wollen\ndu willst        ihr wollt\ner will          sie wollen\n\nmöchten (would like — polite, preferred!)\nich möchte        wir möchten\ndu möchtest       ihr möchtet\ner möchte         sie möchten\n```\n\n📌 Use 'möchten' when ordering, requesting, or being polite.\n📌 'wollen' sounds blunt — use it for strong desires or with friends.\nIch möchte einen Kaffee. ✅   Ich will einen Kaffee. ⚠️ (demanding!)",
+    "vocabulary": [
+      [
+        "wollen",
+        "to want"
+      ],
+      [
+        "möchten",
+        "would like"
+      ],
+      [
+        "der Wunsch",
+        "wish"
+      ],
+      [
+        "träumen von",
+        "to dream of"
+      ],
+      [
+        "hoffen",
+        "to hope"
+      ],
+      [
+        "vielleicht",
+        "maybe"
+      ],
+      [
+        "gern",
+        "gladly/like"
+      ],
+      [
+        "lieber",
+        "prefer"
+      ],
+      [
+        "am liebsten",
+        "most of all"
+      ],
+      [
+        "die Idee",
+        "idea"
+      ]
+    ],
+    "exercises": [
+      "Which is more polite — 'Ich will...' or 'Ich möchte...'?",
+      "Conjugate: Was ___ du trinken? (möchten)",
+      "Translate: I would like a tea, please.",
+      "Fill in: Wir ___ nach Deutschland reisen. (wollen — expressing a strong wish)"
+    ],
+    "tip": "💡 'Ich möchte' is the single most useful phrase for traveling in Germany. Restaurant, shop, hotel — use it everywhere.",
+    "speaking_hw": "Practice saying 5 sentences using today's grammar and vocabulary aloud.",
+    "writing_hw": "Write 5 sentences using 10 of today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-05",
+    "day": 10,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Telling Time: Numbers & Clock Time",
+    "grammar_title": "Numbers 0–100 and telling time",
+    "grammar_content": "```\nNUMBERS 0–20:\n0 null  1 eins  2 zwei  3 drei  4 vier  5 fünf\n6 sechs 7 sieben 8 acht 9 neun 10 zehn\n11 elf  12 zwölf  13 dreizehn  14 vierzehn  15 fünfzehn\n16 sechzehn 17 siebzehn 18 achtzehn 19 neunzehn 20 zwanzig\n\nTIME (informal — most common):\n08:00 = acht Uhr        08:15 = Viertel nach acht\n08:30 = halb neun        08:45 = Viertel vor neun\n\nTIME (formal — official):\n08:15 = acht Uhr fünfzehn  08:45 = acht Uhr fünfundvierzig\n```\n\n📌 'halb neun' = half TO nine = 8:30. NOT 'half past eight'! This confuses everyone.",
+    "vocabulary": [
+      [
+        "Wie spät ist es?",
+        "What time is it?"
+      ],
+      [
+        "Um wie viel Uhr?",
+        "At what time?"
+      ],
+      [
+        "die Uhr",
+        "clock / o'clock"
+      ],
+      [
+        "die Stunde",
+        "hour"
+      ],
+      [
+        "die Minute",
+        "minute"
+      ],
+      [
+        "morgens",
+        "in the morning"
+      ],
+      [
+        "nachmittags",
+        "in the afternoon"
+      ],
+      [
+        "abends",
+        "in the evening"
+      ],
+      [
+        "pünktlich",
+        "punctual"
+      ],
+      [
+        "zu spät",
+        "too late"
+      ],
+      [
+        "der Wecker",
+        "alarm clock"
+      ]
+    ],
+    "exercises": [
+      "What time: 10:30 (informal German)",
+      "What time: 7:45 (informal German)",
+      "Translate: It is 3 o'clock.",
+      "Translate: The meeting is at 2:15."
+    ],
+    "tip": "💡 Germans are famously punctual! 'Pünktlichkeit' is a cultural value. Five minutes late is already 'zu spät'.",
+    "speaking_hw": "Practice saying 5 sentences using today's grammar and vocabulary aloud.",
+    "writing_hw": "Write 5 sentences using 11 of today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-06",
+    "day": 11,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Days & Months: Ordinal Numbers + Dates",
+    "grammar_title": "Ordinal numbers and date format",
+    "grammar_content": "Ordinal numbers add -te (1-19) or -ste (20+):\n\n```\n1. erste    2. zweite   3. dritte   4. vierte   5. fünfte\n6. sechste  7. siebte   8. achte    9. neunte   10. zehnte\n20. zwanzigste  30. dreißigste\n\nDATES: 'am' + ordinal + month:\nam ersten Mai = on the 1st of May\nHeute ist der 26. April 2026. (Today is the 26th of April.)\n```\n\n📌 German date format is DD.MM.YYYY (26.04.2026), not MM/DD!",
+    "vocabulary": [
+      [
+        "der Tag",
+        "day"
+      ],
+      [
+        "der Monat",
+        "month"
+      ],
+      [
+        "das Jahr",
+        "year"
+      ],
+      [
+        "Montag–Sonntag",
+        "Monday–Sunday"
+      ],
+      [
+        "heute",
+        "today"
+      ],
+      [
+        "morgen",
+        "tomorrow"
+      ],
+      [
+        "gestern",
+        "yesterday"
+      ],
+      [
+        "der Geburtstag",
+        "birthday"
+      ],
+      [
+        "Januar–Dezember",
+        "January–December"
+      ],
+      [
+        "das Wochenende",
+        "weekend"
+      ]
+    ],
+    "exercises": [
+      "Write: the 3rd of October (in German)",
+      "Write: the 21st of June (in German)",
+      "Translate: Today is Monday, the 27th of April.",
+      "What day is 'Mittwoch'?"
+    ],
+    "tip": "💡 In Germany, the week starts with Monday (Montag), not Sunday. Calendars are printed Monday–Sunday.",
+    "speaking_hw": "Practice saying 5 sentences using today's grammar and vocabulary aloud.",
+    "writing_hw": "Write 5 sentences using 10 of today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-07",
+    "day": 12,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Questions: W-Fragen (Who, What, Where...)",
+    "grammar_title": "W-question words and question structure",
+    "grammar_content": "In questions, the verb comes SECOND (right after the question word):\n\n```\nWer?     = Who?       Wer ist das? (Who is that?)\nWas?     = What?      Was machst du? (What are you doing?)\nWo?      = Where?     Wo wohnst du? (Where do you live?)\nWoher?   = Where from? Woher kommst du? (Where are you from?)\nWohin?   = Where to?  Wohin gehst du? (Where are you going?)\nWann?    = When?      Wann kommst du? (When are you coming?)\nWarum?   = Why?       Warum lernst du Deutsch?\nWie?     = How?       Wie heißt du? (What's your name?)\n```\n\n📌 'Wo?' = location (static). 'Wohin?' = direction (motion). This distinction is important!",
+    "vocabulary": [
+      [
+        "Wer?",
+        "Who?"
+      ],
+      [
+        "Was?",
+        "What?"
+      ],
+      [
+        "Wo?",
+        "Where?"
+      ],
+      [
+        "Woher?",
+        "Where from?"
+      ],
+      [
+        "Wohin?",
+        "Where to?"
+      ],
+      [
+        "Wann?",
+        "When?"
+      ],
+      [
+        "Warum?",
+        "Why?"
+      ],
+      [
+        "Wie?",
+        "How?"
+      ],
+      [
+        "Wie viel?",
+        "How much?"
+      ],
+      [
+        "die Frage",
+        "question"
+      ],
+      [
+        "die Antwort",
+        "answer"
+      ]
+    ],
+    "exercises": [
+      "Fill in: ___ heißt du? (What's your name?)",
+      "Fill in: ___ wohnst du? (Where do you live?)",
+      "Fill in: ___ lernst du Deutsch? (Why are you learning German?)",
+      "What's the difference between 'Wo?' and 'Wohin?'"
+    ],
+    "tip": "💡 German doesn't need 'do' for questions! Just: 'Was machst du?' NOT 'Was do machst du?' Big relief for learners.",
+    "speaking_hw": "Practice saying 5 sentences using today's grammar and vocabulary aloud.",
+    "writing_hw": "Write 5 sentences using 11 of today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-08",
+    "day": 13,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Yes/No Questions + Negation",
+    "grammar_title": "Ja/Nein Fragen and nicht vs kein",
+    "grammar_content": "For yes/no questions, put the VERB FIRST:\n\n```\nKommst du aus Deutschland?   (Do you come from Germany?)\nHast du Geschwister?         (Do you have siblings?)\nWohnst du hier?              (Do you live here?)\n\nNEGATION:\n• nicht = not (negates verbs, adjectives, adverbs)\n  Ich komme nicht. Er ist nicht alt. Ich wohne nicht hier.\n• kein/keine = no/not a (negates nouns with ein/no article)\n  Ich habe keinen Bruder. Das ist kein Problem.\n```",
+    "vocabulary": [
+      [
+        "ja",
+        "yes"
+      ],
+      [
+        "nein",
+        "no"
+      ],
+      [
+        "doch",
+        "yes (to counter a negative)"
+      ],
+      [
+        "vielleicht",
+        "maybe"
+      ],
+      [
+        "auch nicht",
+        "also not"
+      ],
+      [
+        "nie",
+        "never"
+      ],
+      [
+        "noch nicht",
+        "not yet"
+      ],
+      [
+        "nichts",
+        "nothing"
+      ],
+      [
+        "niemand",
+        "nobody"
+      ],
+      [
+        "die Frage",
+        "question"
+      ]
+    ],
+    "exercises": [
+      "Make yes/no: Du kommst aus Berlin. → question?",
+      "Use nicht or kein: Ich habe ___ Auto. (I don't have a car.)",
+      "Use nicht or kein: Er ist ___ alt. (He is not old.)",
+      "When do you answer 'Doch!' instead of 'Ja!'?"
+    ],
+    "tip": "💡 'Doch!' is a uniquely German word — use it to contradict a negative statement. 'Du sprichst kein Deutsch!' — 'Doch!' (Yes I do!)",
+    "speaking_hw": "Practice saying 5 sentences using today's grammar and vocabulary aloud.",
+    "writing_hw": "Write 5 sentences using 10 of today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-09",
+    "day": 14,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Accusative Case: Direct Objects",
+    "grammar_title": "Accusative case — der → den, ein → einen",
+    "grammar_content": "The accusative marks the DIRECT OBJECT (who/what receives the action):\n\n```\nNOMINATIVE (subject)        ACCUSATIVE (direct object)\nder Mann    → den Mann     Ich sehe den Mann.\nein Mann    → einen Mann   Ich sehe einen Mann.\ndie Frau    → die Frau     Ich sehe die Frau. (no change!)\neine Frau   → eine Frau    Ich sehe eine Frau. (no change!)\ndas Kind    → das Kind     Ich sehe das Kind. (no change!)\nein Kind    → ein Kind     Ich sehe ein Kind. (no change!)\n```\n\n📌 ONLY masculine changes in accusative! Feminine and neuter stay the same.",
+    "vocabulary": [
+      [
+        "sehen",
+        "to see"
+      ],
+      [
+        "finden",
+        "to find"
+      ],
+      [
+        "suchen",
+        "to search/look for"
+      ],
+      [
+        "kaufen",
+        "to buy"
+      ],
+      [
+        "brauchen",
+        "to need"
+      ],
+      [
+        "der Stift",
+        "pen"
+      ],
+      [
+        "das Buch",
+        "book"
+      ],
+      [
+        "die Tasche",
+        "bag"
+      ],
+      [
+        "der Schlüssel",
+        "key"
+      ],
+      [
+        "das Handy",
+        "cell phone"
+      ]
+    ],
+    "exercises": [
+      "Accusative: Ich sehe d__ Mann. (der → ?)",
+      "Accusative: Ich kaufe ein___ Stift. (ein → ?)",
+      "Accusative: Sie findet d__ Tasche. (die → ?)",
+      "Translate: I need the key."
+    ],
+    "tip": "💡 80% of the accusative 'pain' is just remembering 'der → den'. Everything else stays exactly the same!",
+    "speaking_hw": "Practice saying 5 sentences using today's grammar and vocabulary aloud.",
+    "writing_hw": "Write 5 sentences using 10 of today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-10",
+    "day": 15,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Accusative Prepositions",
+    "grammar_title": "Prepositions that ALWAYS take accusative",
+    "grammar_content": "These 5 prepositions ALWAYS force accusative — no exceptions:\n\n```\ndurch   = through      Wir gehen durch den Park.\nfür     = for         Das Geschenk ist für den Vater.\ngegen   = against     Er ist gegen den Plan.\nohne    = without     Ich gehe ohne den Regenschirm.\num      = around/at   Wir treffen uns um den Tisch.\n                      Der Termin ist um 8 Uhr. (time)\n```\n\n📌 MEMORY TRICK: 'DOGFU' — Durch, Ohne, Gegen, Für, Um",
+    "vocabulary": [
+      [
+        "durch",
+        "through"
+      ],
+      [
+        "für",
+        "for"
+      ],
+      [
+        "gegen",
+        "against"
+      ],
+      [
+        "ohne",
+        "without"
+      ],
+      [
+        "um",
+        "around / at (time)"
+      ],
+      [
+        "das Geschenk",
+        "gift"
+      ],
+      [
+        "der Park",
+        "park"
+      ],
+      [
+        "der Regenschirm",
+        "umbrella"
+      ],
+      [
+        "der Termin",
+        "appointment"
+      ]
+    ],
+    "exercises": [
+      "Fill in: Das ist für d___ Lehrer. (der → acc.)",
+      "Fill in: Ohne ein___ Stift kann ich nicht schreiben.",
+      "Translate: We walk through the park.",
+      "List all 5 accusative-only prepositions (DOGFU)."
+    ],
+    "tip": "💡 'Um' for time is special: 'um 8 Uhr' (at 8 o'clock). Don't confuse it with 'im' (in) for months/seasons!",
+    "speaking_hw": "Practice saying 5 sentences using today's grammar and vocabulary aloud.",
+    "writing_hw": "Write 5 sentences using 9 of today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-11",
+    "day": 16,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Dative Case Intro: Indirect Objects",
+    "grammar_title": "Dative case — dem, einem, der, einer",
+    "grammar_content": "The dative marks the INDIRECT OBJECT (to whom/for whom):\n\n```\nNOM → ACC → DAT\nder → den → dem        Ich gebe dem Mann das Buch.\nein → einen → einem    Ich gebe einem Kind ein Geschenk.\ndie → die → der        Ich helfe der Frau.\neine → eine → einer    Ich antworte einer Freundin.\ndas → das → dem        Ich danke dem Team.\nein → ein → einem      Das gehört einem Mädchen.\n```\n\n📌 Many common verbs take dative: helfen, danken, gehören, antworten, gefallen.",
+    "vocabulary": [
+      [
+        "helfen",
+        "to help"
+      ],
+      [
+        "danken",
+        "to thank"
+      ],
+      [
+        "gefallen",
+        "to please/like"
+      ],
+      [
+        "gehören",
+        "to belong"
+      ],
+      [
+        "antworten",
+        "to answer"
+      ],
+      [
+        "geben",
+        "to give"
+      ],
+      [
+        "schenken",
+        "to gift"
+      ],
+      [
+        "der Freund",
+        "friend"
+      ],
+      [
+        "die Freundin",
+        "friend f."
+      ],
+      [
+        "das Geschenk",
+        "gift"
+      ]
+    ],
+    "exercises": [
+      "Dative: Ich helfe d___ Mann.",
+      "Dative: Das Buch gehört ein___ Kind.",
+      "Translate: I give the woman a present.",
+      "Which case for 'to whom'? Nominative, Accusative, or Dative?"
+    ],
+    "tip": "💡 Think of dative as the 'receiving' case. If you can add 'to/for' before the noun in English, it's probably dative.",
+    "speaking_hw": "Practice saying sentences using today's grammar and vocabulary.",
+    "writing_hw": "Write 5 sentences using today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-12",
+    "day": 17,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Dative Prepositions",
+    "grammar_title": "Prepositions that ALWAYS take dative",
+    "grammar_content": "These 9 prepositions always force DATIVE — memorize them:\n\n```\naus     = from/out of    Ich komme aus dem Haus.\nbei     = at/near/with    Ich wohne bei meinen Eltern.\nmit     = with            Ich fahre mit dem Bus.\nnach    = after/to        Nach der Arbeit gehe ich nach Hause.\nseit    = since/for       Seit einem Jahr lerne ich Deutsch.\nvon     = from/of         Das ist von meinem Bruder.\nzu      = to              Ich gehe zu der Ärztin → zur Ärztin.\ngegenüber = opposite     Das Café ist gegenüber dem Bahnhof.\naußer   = except          Alle außer mir kommen.\n```\n\n📌 Contractions: zu der = zur | zu dem = zum | von dem = vom | bei dem = beim",
+    "vocabulary": [
+      [
+        "aus",
+        "from"
+      ],
+      [
+        "bei",
+        "at/with"
+      ],
+      [
+        "mit",
+        "with"
+      ],
+      [
+        "nach",
+        "after/to"
+      ],
+      [
+        "seit",
+        "since/for"
+      ],
+      [
+        "von",
+        "from/of"
+      ],
+      [
+        "zu",
+        "to"
+      ],
+      [
+        "das Haus",
+        "house"
+      ],
+      [
+        "die Arbeit",
+        "work"
+      ],
+      [
+        "der Bahnhof",
+        "train station"
+      ],
+      [
+        "nach Hause",
+        "home (direction)"
+      ],
+      [
+        "zu Hause",
+        "at home"
+      ]
+    ],
+    "exercises": [
+      "Fill in: Ich komme ___ der Schule. (aus)",
+      "Fill in: Ich fahre ___ dem Bus. (mit)",
+      "Contract: zu + der = ?",
+      "Translate: I go to the doctor (female)."
+    ],
+    "tip": "💡 'Nach Hause' = going home (direction). 'Zu Hause' = at home (location). Don't mix them up!",
+    "speaking_hw": "Practice saying sentences using today's grammar and vocabulary.",
+    "writing_hw": "Write 5 sentences using today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-13",
+    "day": 18,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Two-Way Prepositions Intro",
+    "grammar_title": "Wechselpräpositionen: in, auf, an",
+    "grammar_content": "These prepositions take ACCUSATIVE for motion (→) and DATIVE for location (📍):\n\n```\n          WHERE? (Dat)          WHERE TO? (Akk)\nin    =   im Haus (in the house)    ins Haus (into the house)\nauf   =   auf dem Tisch (on)        auf den Tisch (onto)\nan    =   an der Wand (on wall)     an die Wand (onto wall)\n\nKEY RULE: Motion → Accusative. Location → Dative.\nIch gehe in die Küche. (I go INTO the kitchen — motion!)\nIch bin in der Küche. (I am IN the kitchen — location!)\n```",
+    "vocabulary": [
+      [
+        "in",
+        "in/into"
+      ],
+      [
+        "auf",
+        "on/onto"
+      ],
+      [
+        "an",
+        "at/on (vertical)"
+      ],
+      [
+        "die Küche",
+        "kitchen"
+      ],
+      [
+        "das Wohnzimmer",
+        "living room"
+      ],
+      [
+        "der Tisch",
+        "table"
+      ],
+      [
+        "die Wand",
+        "wall"
+      ],
+      [
+        "stellen",
+        "to place (stand up)"
+      ],
+      [
+        "legen",
+        "to lay (flat)"
+      ],
+      [
+        "hängen",
+        "to hang"
+      ],
+      [
+        "stehen",
+        "to stand (location)"
+      ],
+      [
+        "liegen",
+        "to lie (location)"
+      ]
+    ],
+    "exercises": [
+      "Where? Ich bin ___ d___ Küche. (in + location)",
+      "Where to? Ich gehe ___ d___ Küche. (in + motion)",
+      "Translate: The book is ON the table. (location)",
+      "Translate: I put the book ONTO the table. (motion)"
+    ],
+    "tip": "💡 Ask yourself: am I describing a location or a movement? That determines Dative vs Accusative EVERY time.",
+    "speaking_hw": "Practice saying sentences using today's grammar and vocabulary.",
+    "writing_hw": "Write 5 sentences using today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-14",
+    "day": 19,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Giving Commands: Imperative",
+    "grammar_title": "Imperative forms (du, ihr, Sie)",
+    "grammar_content": "The imperative tells someone what to do:\n\n```\nDU (informal singular) — drop 'st', remove pronoun:\nDu kommst. → Komm! (Come!)\nDu arbeitest. → Arbeite! (Work!) — keep -e if stem ends in -t/-d\n\nIHR (informal plural) — drop pronoun, keep verb form:\nIhr kommt. → Kommt!\n\nSIE (formal) — verb first, keep 'Sie':\nSie kommen. → Kommen Sie!\n\nIRREGULAR:\nsein → Sei! / Seid! / Seien Sie!\nhaben → Hab! / Habt! / Haben Sie!\n```",
+    "vocabulary": [
+      [
+        "Komm!",
+        "Come! (du)"
+      ],
+      [
+        "Geh!",
+        "Go! (du)"
+      ],
+      [
+        "Warte!",
+        "Wait! (du)"
+      ],
+      [
+        "Hör zu!",
+        "Listen! (du)"
+      ],
+      [
+        "Mach!",
+        "Do/Make! (du)"
+      ],
+      [
+        "Schnell!",
+        "Quick!"
+      ],
+      [
+        "Vorsicht!",
+        "Careful!"
+      ],
+      [
+        "Ruhe!",
+        "Quiet!"
+      ],
+      [
+        "Hilfe!",
+        "Help!"
+      ],
+      [
+        "Entschuldigung!",
+        "Excuse me!"
+      ]
+    ],
+    "exercises": [
+      "Imperative (du): Du gehst nach Hause. → ?",
+      "Imperative (Sie): Sie warten bitte. → ?",
+      "Imperative (ihr): Ihr esst jetzt. → ?",
+      "Imperative of 'sein' (Sie form): ?"
+    ],
+    "tip": "💡 The du-imperative is the simplest: just chop off '-st' and the pronoun. 'Du machst' → 'Mach!' Easy!",
+    "speaking_hw": "Practice saying sentences using today's grammar and vocabulary.",
+    "writing_hw": "Write 5 sentences using today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-15",
+    "day": 20,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "My, Your, His, Her: Possessive Articles",
+    "grammar_title": "Possessivartikel: mein, dein, sein, ihr",
+    "grammar_content": "Possessive articles work like 'ein' — same endings:\n\n```\n        Masc      Fem       Neut      Plural\nNOM:    mein      meine     mein      meine\nACC:    meinen    meine     mein      meine\n\nich → mein      wir → unser\ndu → dein       ihr → euer\ner → sein       sie → ihr\nes → sein       Sie → Ihr (formal, capitalized!)\n\nDas ist mein Bruder. Ich liebe meinen Bruder.\nDas ist ihre Schwester. Sie besucht ihre Schwester.\n```",
+    "vocabulary": [
+      [
+        "mein/e",
+        "my"
+      ],
+      [
+        "dein/e",
+        "your (informal)"
+      ],
+      [
+        "sein/e",
+        "his/its"
+      ],
+      [
+        "ihr/e",
+        "her"
+      ],
+      [
+        "unser/e",
+        "our"
+      ],
+      [
+        "euer/eure",
+        "your (plural)"
+      ],
+      [
+        "ihr/e",
+        "their"
+      ],
+      [
+        "Ihr/e",
+        "your (formal)"
+      ],
+      [
+        "der Name",
+        "name"
+      ],
+      [
+        "die Adresse",
+        "address"
+      ]
+    ],
+    "exercises": [
+      "Fill in: Das ist ___ Buch. (my)",
+      "Accusative: Ich sehe ___ Vater. (my)",
+      "Fill in: Wo ist ___ Tasche? (your / du)",
+      "Translate: This is his car."
+    ],
+    "tip": "💡 'ihr' means THREE things: (1) her, (2) their, (3) you all. Context tells you which. Capital 'Ihr' = formal 'your'.",
+    "speaking_hw": "Practice saying sentences using today's grammar and vocabulary.",
+    "writing_hw": "Write 5 sentences using today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-16",
+    "day": 21,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Accusative Pronouns: me, you, him...",
+    "grammar_title": "Personal pronouns in accusative: mich, dich, ihn...",
+    "grammar_content": "When someone is the direct object, change the pronoun:\n\n```\nNOM (subject)    ACC (direct object)\nich       →     mich        (me)\ndu        →     dich        (you)\ner        →     ihn         (him)\nsie       →     sie         (her) — same!\nes        →     es          (it) — same!\nwir       →     uns         (us)\nihr       →     euch        (you all)\nsie       →     sie         (they/them) — same!\nSie       →     Sie         (you formal) — same!\n\nIch liebe dich. (I love you.)\nSiehst du ihn? (Do you see him?)\n```\n\n📌 Only 'ich→mich', 'du→dich', 'er→ihn', 'wir→uns', 'ihr→euch' change!",
+    "vocabulary": [
+      [
+        "mich",
+        "me"
+      ],
+      [
+        "dich",
+        "you"
+      ],
+      [
+        "ihn",
+        "him"
+      ],
+      [
+        "uns",
+        "us"
+      ],
+      [
+        "euch",
+        "you all"
+      ],
+      [
+        "lieben",
+        "to love"
+      ],
+      [
+        "kennen",
+        "to know (person)"
+      ],
+      [
+        "verstehen",
+        "to understand"
+      ],
+      [
+        "anrufen",
+        "to call"
+      ],
+      [
+        "besuchen",
+        "to visit"
+      ]
+    ],
+    "exercises": [
+      "Pronoun (acc): Ich sehe ___. (du)",
+      "Pronoun (acc): Er liebt ___. (sie=her)",
+      "Pronoun (acc): Wir besuchen ___. (ihr)",
+      "Translate: Do you know him?"
+    ],
+    "tip": "💡 'Ich liebe dich' — the verb already tells you it's accusative, so 'dich' just confirms who receives the love!",
+    "speaking_hw": "Practice saying sentences using today's grammar and vocabulary.",
+    "writing_hw": "Write 5 sentences using today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-17",
+    "day": 22,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Giving Reasons: 'weil' Clauses",
+    "grammar_title": "Subordinate clause with 'weil' (because)",
+    "grammar_content": "When you use 'weil', the verb goes to the END:\n\n```\nNORMAL: Ich lerne Deutsch. Es macht Spaß.\nWEIL:    Ich lerne Deutsch, weil es Spaß macht. ← verb at end!\n\nNORMAL: Er kommt nicht. Er ist krank.\nWEIL:    Er kommt nicht, weil er krank ist.\n\nRULE: weil + subject + ... + VERB (at the end)\n```\n\n📌 Comma before 'weil'. Separable verbs REJOIN at the end:\n...weil ich um 7 Uhr aufstehe. (NOT: auf...stehe)",
+    "vocabulary": [
+      [
+        "weil",
+        "because"
+      ],
+      [
+        "denn",
+        "because (no verb change!)"
+      ],
+      [
+        "krank",
+        "sick"
+      ],
+      [
+        "müde",
+        "tired"
+      ],
+      [
+        "Spaß machen",
+        "to be fun"
+      ],
+      [
+        "Hunger haben",
+        "to be hungry"
+      ],
+      [
+        "Durst haben",
+        "to be thirsty"
+      ],
+      [
+        "Zeit haben",
+        "to have time"
+      ],
+      [
+        "Recht haben",
+        "to be right"
+      ],
+      [
+        "der Grund",
+        "reason"
+      ]
+    ],
+    "exercises": [
+      "Join with weil: Ich bin müde. Ich habe nicht geschlafen.",
+      "Join with weil: Er kommt nicht. Er ist krank.",
+      "Fix: ...weil ich aufstehe um 7 Uhr. (separable verb!)",
+      "What happens to the verb in a 'weil' clause?"
+    ],
+    "tip": "💡 'denn' also means 'because' but doesn't change word order. Use 'weil' to sound more natural in spoken German.",
+    "speaking_hw": "Practice saying sentences using today's grammar and vocabulary.",
+    "writing_hw": "Write 5 sentences using today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-18",
+    "day": 23,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Likes & Dislikes: gern/lieber/am liebsten",
+    "grammar_title": "Expressing preferences with 'gern', 'lieber', 'am liebsten'",
+    "grammar_content": "German doesn't have a single verb for 'to like'. Use 'gern' instead:\n\n```\nIch schwimme gern.        (I like swimming / I like to swim.)\nIch mag schwimmen.        (same — using 'mögen')\n\nCOMPARING:\ngern        = like\nlieber      = prefer / like more\nam liebsten = like most / favorite\n\nIch trinke gern Kaffee, aber ich trinke lieber Tee.\nAm liebsten trinke ich Wasser.\n```",
+    "vocabulary": [
+      [
+        "gern",
+        "gladly / like to"
+      ],
+      [
+        "lieber",
+        "prefer / rather"
+      ],
+      [
+        "am liebsten",
+        "most of all"
+      ],
+      [
+        "mögen",
+        "to like"
+      ],
+      [
+        "hassen",
+        "to hate"
+      ],
+      [
+        "lieben",
+        "to love"
+      ],
+      [
+        "das Lieblings-",
+        "favorite (prefix)"
+      ],
+      [
+        "die Musik",
+        "music"
+      ],
+      [
+        "der Sport",
+        "sport"
+      ],
+      [
+        "das Essen",
+        "food"
+      ]
+    ],
+    "exercises": [
+      "Translate: I like to cook.",
+      "Translate: I prefer to read.",
+      "Translate: Most of all I like to travel.",
+      "What's the difference between 'gern' and 'lieber'?"
+    ],
+    "tip": "💡 'Lieblings-' is a prefix that means 'favorite': Lieblingsfarbe (favorite color), Lieblingsessen (favorite food), Lieblingsfilm.",
+    "speaking_hw": "Practice saying sentences using today's grammar and vocabulary.",
+    "writing_hw": "Write 5 sentences using today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-19",
+    "day": 24,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Talking About the Future",
+    "grammar_title": "Future with present tense + time adverbs",
+    "grammar_content": "German usually uses PRESENT TENSE for future events:\n\n```\nMorgen gehe ich ins Kino.      (Tomorrow I'm going to the cinema.)\nNächste Woche besuche ich dich. (Next week I'll visit you.)\nAm Samstag habe ich frei.       (On Saturday I'm off.)\n\nTIME SIGNALS for future:\nmorgen, übermorgen, nächste Woche, nächstes Jahr, bald, später\n\nYou CAN use 'werden' for future, but present tense is more common!\nIch werde kommen. = I will come. (sounds formal/emphatic)\n```",
+    "vocabulary": [
+      [
+        "morgen",
+        "tomorrow"
+      ],
+      [
+        "übermorgen",
+        "day after tomorrow"
+      ],
+      [
+        "nächste Woche",
+        "next week"
+      ],
+      [
+        "nächstes Jahr",
+        "next year"
+      ],
+      [
+        "bald",
+        "soon"
+      ],
+      [
+        "später",
+        "later"
+      ],
+      [
+        "dann",
+        "then"
+      ],
+      [
+        "das Wochenende",
+        "weekend"
+      ],
+      [
+        "die Pläne",
+        "plans"
+      ],
+      [
+        "vorhaben",
+        "to plan/intend"
+      ]
+    ],
+    "exercises": [
+      "Translate (using present): Tomorrow I go to Berlin.",
+      "Translate (using present): Next week I have vacation.",
+      "What tense is most common for future in spoken German?",
+      "When would you use 'werden' instead of present tense?"
+    ],
+    "tip": "💡 Don't overuse 'werden'! It sounds stiff. A time word (morgen, bald) + present tense is the natural way to express future.",
+    "speaking_hw": "Practice saying sentences using today's grammar and vocabulary.",
+    "writing_hw": "Write 5 sentences using today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-20",
+    "day": 25,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Describing Things: Adjectives Basics",
+    "grammar_title": "Predicative adjectives (no ending!)",
+    "grammar_content": "When an adjective comes AFTER the verb (predicative), it has NO ending:\n\n```\nDas Haus ist groß.        (The house is big.)\nDie Pizza ist lecker.    (The pizza is delicious.)\nDer Film war langweilig. (The film was boring.)\n\nCONTRAST with attributive (before noun — endings needed):\nDas große Haus. (The big house — ending added!)\n\nCOMMON ADJECTIVES:\ngut, schlecht, groß, klein, neu, alt, jung, schön, hässlich\nschnell, langsam, teuer, billig, warm, kalt, leicht, schwer\n```",
+    "vocabulary": [
+      [
+        "gut",
+        "good"
+      ],
+      [
+        "schlecht",
+        "bad"
+      ],
+      [
+        "groß",
+        "big/tall"
+      ],
+      [
+        "klein",
+        "small/short"
+      ],
+      [
+        "neu",
+        "new"
+      ],
+      [
+        "alt",
+        "old"
+      ],
+      [
+        "schön",
+        "beautiful"
+      ],
+      [
+        "schnell",
+        "fast"
+      ],
+      [
+        "langsam",
+        "slow"
+      ],
+      [
+        "teuer",
+        "expensive"
+      ],
+      [
+        "billig",
+        "cheap"
+      ],
+      [
+        "warm/kalt",
+        "warm/cold"
+      ]
+    ],
+    "exercises": [
+      "Translate: The house is big.",
+      "Translate: The pizza is delicious.",
+      "Do predicative adjectives get endings in German?",
+      "Form: Das ___ Haus. (groß — before noun = attributive, needs ending)"
+    ],
+    "tip": "💡 'Predicative' = after 'ist/sind/war'. No endings. 'Attributive' = before a noun. Endings needed. This is the #1 adjective rule.",
+    "speaking_hw": "Practice saying sentences using today's grammar and vocabulary.",
+    "writing_hw": "Write 5 sentences using today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-21",
+    "day": 26,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Comparing Things: Comparative",
+    "grammar_title": "Comparative: -er (bigger, smaller, better)",
+    "grammar_content": "Add '-er' to the adjective for comparative. Add 'als' for 'than':\n\n```\nBASE          COMPARATIVE\ngroß     →    größer          (big → bigger)\nklein    →    kleiner         (small → smaller)\nschnell  →    schneller       (fast → faster)\nwarm     →    wärmer          (warm → warmer)\nalt      →    älter           (old → older)\n\nIRREGULAR:\ngut → besser    viel → mehr    gern → lieber\nhoch → höher    nah → näher\n\nIch bin größer als du.         (I'm taller than you.)\nDeutsch ist schwerer als Englisch.\n```",
+    "vocabulary": [
+      [
+        "größer",
+        "bigger/taller"
+      ],
+      [
+        "kleiner",
+        "smaller"
+      ],
+      [
+        "schneller",
+        "faster"
+      ],
+      [
+        "besser",
+        "better"
+      ],
+      [
+        "mehr",
+        "more"
+      ],
+      [
+        "älter",
+        "older"
+      ],
+      [
+        "jünger",
+        "younger"
+      ],
+      [
+        "teurer",
+        "more expensive"
+      ],
+      [
+        "als",
+        "than"
+      ],
+      [
+        "der Vergleich",
+        "comparison"
+      ]
+    ],
+    "exercises": [
+      "Comparative of 'gut': ?",
+      "Comparative of 'groß': ?",
+      "Translate: I am taller than my brother.",
+      "What's the German word for 'than' in comparisons?"
+    ],
+    "tip": "💡 Many one-syllable adjectives add Umlaut (a→ä, o→ö, u→ü): groß→größer, alt→älter, kurz→kürzer, warm→wärmer.",
+    "speaking_hw": "Practice saying sentences using today's grammar and vocabulary.",
+    "writing_hw": "Write 5 sentences using today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-22",
+    "day": 27,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Review Day: Cases Overview",
+    "grammar_title": "Nominative, Accusative, Dative — quick reference",
+    "grammar_content": "MASTER TABLE — save this!\n\n```\n            NOM      ACC      DAT\nMASC:    der/ein → den/einen → dem/einem\nFEM:     die/eine → die/eine → der/einer\nNEUT:    das/ein → das/ein → dem/einem\nPLURAL:  die/— → die/— → den/— (+n on noun)\n\nWHEN TO USE:\nNominative = subject (who does the action)\nAccusative = direct object (what receives action)\nDative = indirect object (to/for whom)\n```\n\n📌 Test: 'Der Mann gibt der Frau den Schlüssel.'\n• der Mann = NOM (subject — who gives?)\n• den Schlüssel = ACC (direct object — what is given?)\n• der Frau = DAT (indirect — to whom is it given?)",
+    "vocabulary": [
+      [
+        "der Tisch",
+        "table (nom)"
+      ],
+      [
+        "den Tisch",
+        "table (acc)"
+      ],
+      [
+        "dem Tisch",
+        "table (dat)"
+      ],
+      [
+        "geben",
+        "to give"
+      ],
+      [
+        "zeigen",
+        "to show"
+      ],
+      [
+        "schicken",
+        "to send"
+      ],
+      [
+        "erklären",
+        "to explain"
+      ],
+      [
+        "sagen",
+        "to say/tell"
+      ],
+      [
+        "die Übung",
+        "exercise"
+      ],
+      [
+        "wiederholen",
+        "to repeat/review"
+      ]
+    ],
+    "exercises": [
+      "Identify cases: Der Mann (?) gibt dem Kind (?) den Ball (?).",
+      "Fill in: Ich gebe d___ Frau d___ Buch. (the woman = dat, the book = acc)",
+      "Which case for the subject?",
+      "Which case for the direct object?"
+    ],
+    "tip": "💡 German children learn cases naturally. You can too — practice the patterns until they feel automatic, not memorized.",
+    "speaking_hw": "Practice saying sentences using today's grammar and vocabulary.",
+    "writing_hw": "Write 5 sentences using today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-23",
+    "day": 28,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Review Day: Verb Types",
+    "grammar_title": "Regular, irregular, modal, separable, reflexive — summary",
+    "grammar_content": "VERB TYPE OVERVIEW:\n\n```\nREGULAR: wohnen → wohne, wohnst, wohnt, wohnen, wohnt, wohnen\nIRREGULAR: sehen → sehe, siehst, sieht, sehen, seht, sehen\n          (du/er change vowel: e→ie, a→ä, e→i)\nMODAL: können → kann, kannst, kann, können, könnt, können\n       (ich/er drop ending, vowel changes)\nSEPARABLE: aufstehen → stehe auf, stehst auf, steht auf...\n           (prefix to end, except in subordinate clauses)\nREFLEXIVE: sich freuen → freue mich, freust dich, freut sich...\n```\n\nTEST YOURSELF: Can you conjugate each type correctly?",
+    "vocabulary": [
+      [
+        "regelmäßig",
+        "regular"
+      ],
+      [
+        "unregelmäßig",
+        "irregular"
+      ],
+      [
+        "trennbar",
+        "separable"
+      ],
+      [
+        "das Verb",
+        "verb"
+      ],
+      [
+        "der Stamm",
+        "stem"
+      ],
+      [
+        "die Endung",
+        "ending"
+      ],
+      [
+        "konjugieren",
+        "to conjugate"
+      ],
+      [
+        "wiederholen",
+        "to repeat"
+      ],
+      [
+        "die Tabelle",
+        "table"
+      ],
+      [
+        "der Test",
+        "test"
+      ]
+    ],
+    "exercises": [
+      "Conjugate 'fahren' (du): du ___",
+      "Conjugate 'wollen' (er): er ___",
+      "Separable: aufstehen (ich): ich ___",
+      "What makes a verb 'modal'?"
+    ],
+    "tip": "💡 Most German verbs are regular. Learn the ~20 most common irregular verbs by heart, and the rest follow predictable patterns.",
+    "speaking_hw": "Practice saying sentences using today's grammar and vocabulary.",
+    "writing_hw": "Write 5 sentences using today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-24",
+    "day": 29,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "Review Day: Sentence Structure",
+    "grammar_title": "Hauptsatz, Fragesatz, Nebensatz — word order rules",
+    "grammar_content": "WORD ORDER CHEAT SHEET:\n\n```\nMAIN CLAUSE (Hauptsatz): Subject + Verb (2nd) + ...\n  Ich lerne heute Deutsch.\n  Heute lerne ich Deutsch. (time first — verb still 2nd!)\n\nYES/NO QUESTION: Verb + Subject + ...\n  Lernst du Deutsch?\n\nW-QUESTION: Question word + Verb + Subject + ...\n  Warum lernst du Deutsch?\n\nSUBORDINATE (weil/dass): ... + Subject + ... + VERB (end!)\n  ...weil ich Deutsch lerne.\n```\n\n📌 The verb is ALWAYS in position 2 in a main clause. Even if something else starts the sentence.",
+    "vocabulary": [
+      [
+        "der Satz",
+        "sentence"
+      ],
+      [
+        "der Hauptsatz",
+        "main clause"
+      ],
+      [
+        "der Nebensatz",
+        "subordinate clause"
+      ],
+      [
+        "die Wortstellung",
+        "word order"
+      ],
+      [
+        "zuerst",
+        "first"
+      ],
+      [
+        "dann",
+        "then"
+      ],
+      [
+        "danach",
+        "after that"
+      ],
+      [
+        "zum Schluss",
+        "finally"
+      ],
+      [
+        "einfach",
+        "simple"
+      ],
+      [
+        "kompliziert",
+        "complicated"
+      ]
+    ],
+    "exercises": [
+      "Identify: 'Morgen fahre ich nach Berlin.' — where is the verb?",
+      "Correct: 'Weil ich bin müde.' → fix the word order.",
+      "Make a question: Du sprichst Deutsch. → ?",
+      "What position must the verb be in a main clause?"
+    ],
+    "tip": "💡 'Verb second' is the golden rule of German. Even if you put time/place first, the verb stays second. 'Heute BIN ich müde.'",
+    "speaking_hw": "Practice saying sentences using today's grammar and vocabulary.",
+    "writing_hw": "Write 5 sentences using today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-25",
+    "day": 30,
+    "level": "A1",
+    "phase": "A1 — Foundations: Survival German",
+    "topic": "A1 Achievement Test",
+    "grammar_title": "Self-assessment: Can you do these 10 things?",
+    "grammar_content": "A1 COMPETENCY CHECKLIST — tick what you can do:\n\n```\n✅ Introduce yourself and ask someone's name\n✅ Say where you're from and where you live\n✅ Talk about your family\n✅ Order food and drinks politely\n✅ Tell time and talk about daily routine\n✅ Talk about hobbies using 'können'\n✅ Express obligations with 'müssen'\n✅ Express wishes with 'möchten'\n✅ Ask questions (W-Fragen and yes/no)\n✅ Use accusative and dative correctly\n```\n\nCount your ✅ marks. 8+ = ready for A2. 5-7 = review weak spots. <5 = repeat A1 focus areas.",
+    "vocabulary": [
+      [
+        "die Prüfung",
+        "exam/test"
+      ],
+      [
+        "bestanden",
+        "passed"
+      ],
+      [
+        "weiter",
+        "further/onward"
+      ],
+      [
+        "das Niveau",
+        "level"
+      ],
+      [
+        "sicher",
+        "confident/secure"
+      ],
+      [
+        "fast",
+        "almost"
+      ],
+      [
+        "noch nicht",
+        "not yet"
+      ],
+      [
+        "bereit",
+        "ready"
+      ],
+      [
+        "die nächste Stufe",
+        "next level"
+      ],
+      [
+        "geschafft!",
+        "done it!/made it!"
+      ]
+    ],
+    "exercises": [
+      "Can you introduce yourself in 3 sentences?",
+      "Can you order a coffee politely?",
+      "Can you tell someone what time you get up?",
+      "Can you explain why you're learning German?"
+    ],
+    "tip": "💡 Congratulations on completing A1! The jump from 'total beginner' to 'basic communicator' is the biggest milestone in language learning. 🎉",
+    "speaking_hw": "Practice saying sentences using today's grammar and vocabulary.",
+    "writing_hw": "Write 5 sentences using today's vocabulary words with correct grammar."
+  },
+  {
+    "date": "2026-05-26",
+    "day": 31,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "What Happened? Perfekt with 'haben'",
+    "grammar_title": "Perfekt tense — regular verbs with haben",
+    "grammar_content": "The Perfekt is the MAIN past tense in spoken German:\n\n```\nFORMULA: haben (conjugated) + Partizip II (at end)\n\nREGULAR: ge + stem + t\nmachen → gemacht      Ich habe das gemacht.\nlernen → gelernt      Hast du Deutsch gelernt?\nkaufen → gekauft      Er hat ein Buch gekauft.\nwohnen → gewohnt      Wir haben in Berlin gewohnt.\n\nNO ge- for verbs ending in -ieren:\nstudieren → studiert   Ich habe in München studiert.\n```\n\n📌 Perfekt = spoken past. Präteritum = written past. Use Perfekt when you speak!",
+    "vocabulary": [
+      [
+        "gemacht",
+        "done/made"
+      ],
+      [
+        "gelernt",
+        "studied/learned"
+      ],
+      [
+        "gekauft",
+        "bought"
+      ],
+      [
+        "gewohnt",
+        "lived"
+      ],
+      [
+        "gearbeitet",
+        "worked"
+      ],
+      [
+        "gespielt",
+        "played"
+      ],
+      [
+        "gekocht",
+        "cooked"
+      ],
+      [
+        "gesagt",
+        "said"
+      ],
+      [
+        "gefragt",
+        "asked"
+      ],
+      [
+        "gehört",
+        "heard"
+      ],
+      [
+        "das Partizip",
+        "participle"
+      ]
+    ],
+    "exercises": [
+      "Form Perfekt: Ich ___ Deutsch ___. (lernen)",
+      "Form Perfekt: Er ___ ein Auto ___. (kaufen)",
+      "Form Perfekt: Was ___ du ___? (machen)",
+      "When do you use Perfekt vs Präteritum?"
+    ],
+    "tip": "💡 Think of Perfekt like English 'have done': 'Ich habe gegessen' = 'I have eaten'. It's the default spoken past tense.",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-05-27",
+    "day": 32,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Movement: Perfekt with 'sein'",
+    "grammar_title": "Perfekt with 'sein' — verbs of movement and change",
+    "grammar_content": "Some verbs use 'sein' instead of 'haben' in Perfekt:\n\n```\nMOVEMENT (from A to B):\ngehen → ist gegangen     Ich bin nach Hause gegangen.\nfahren → ist gefahren    Er ist nach Berlin gefahren.\nkommen → ist gekommen    Sie ist spät gekommen.\n\nCHANGE OF STATE:\naufwachen → ist aufgewacht   Ich bin um 7 Uhr aufgewacht.\neinschlafen → ist eingeschlafen\nwerden → ist geworden         Es ist kalt geworden.\n\nEXCEPTIONS (sein only): sein → ist gewesen, bleiben → ist geblieben\n```",
+    "vocabulary": [
+      [
+        "gegangen",
+        "gone (gehen)"
+      ],
+      [
+        "gefahren",
+        "driven/traveled"
+      ],
+      [
+        "gekommen",
+        "come"
+      ],
+      [
+        "geflogen",
+        "flown"
+      ],
+      [
+        "geschwommen",
+        "swum"
+      ],
+      [
+        "gelaufen",
+        "run/walked"
+      ],
+      [
+        "aufgewacht",
+        "woken up"
+      ],
+      [
+        "eingeschlafen",
+        "fallen asleep"
+      ],
+      [
+        "geblieben",
+        "stayed"
+      ],
+      [
+        "geworden",
+        "become"
+      ]
+    ],
+    "exercises": [
+      "Perfekt: Er ___ nach Hause ___. (gehen)",
+      "Perfekt: Sie ___ spät ___. (kommen)",
+      "Which auxiliary: fahren — haben or sein?",
+      "Which auxiliary: lernen — haben or sein?"
+    ],
+    "tip": "💡 Rule of thumb: if the verb involves moving from place A to place B, it uses 'sein'. If you do an activity in one place, it uses 'haben'.",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-05-28",
+    "day": 33,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Irregular Partizip II",
+    "grammar_title": "Strong/irregular verbs in Perfekt",
+    "grammar_content": "Many common verbs have irregular Partizip II forms:\n\n```\nINFINITIVE       PARTIZIP II       EXAMPLE\nessen       →    gegessen         Ich habe Pizza gegessen.\ntrinken     →    getrunken        Hast du Kaffee getrunken?\nfinden      →    gefunden         Ich habe es gefunden.\nschreiben   →    geschrieben      Wer hat das geschrieben?\nsprechen    →    gesprochen       Wir haben Deutsch gesprochen.\nnehmen      →    genommen         Er hat das Buch genommen.\nhelfen      →    geholfen         Sie hat mir geholfen.\nsehen       →    gesehen          Hast du den Film gesehen?\n```\n\n📌 Pattern: ge- + changed stem + -en (many strong verbs end in -en, not -t)",
+    "vocabulary": [
+      [
+        "gegessen",
+        "eaten"
+      ],
+      [
+        "getrunken",
+        "drunk"
+      ],
+      [
+        "gefunden",
+        "found"
+      ],
+      [
+        "geschrieben",
+        "written"
+      ],
+      [
+        "gesprochen",
+        "spoken"
+      ],
+      [
+        "genommen",
+        "taken"
+      ],
+      [
+        "geholfen",
+        "helped"
+      ],
+      [
+        "gesehen",
+        "seen"
+      ],
+      [
+        "gelesen",
+        "read"
+      ],
+      [
+        "gegeben",
+        "given"
+      ],
+      [
+        "bekommen",
+        "received/got"
+      ]
+    ],
+    "exercises": [
+      "Perfekt of 'essen': Ich habe ___",
+      "Perfekt of 'finden': Er hat ___",
+      "Perfekt of 'schreiben': Sie hat ___",
+      "What ending do many strong Partizip II forms have?"
+    ],
+    "tip": "💡 Make flashcards: 'essen → gegessen'. The strong verbs are the most used verbs in German — you'll learn them fast through exposure.",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-05-29",
+    "day": 34,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Dative Case Deep Dive",
+    "grammar_title": "Full dative case: articles, pronouns, prepositions",
+    "grammar_content": "DATIVEREFERENCE—savethis:\n\n```\nARTICLES IN DATIVE:\nder → dem      ein → einem      kein → keinem\ndie → der      eine → einer     keine → keiner\ndas → dem      ein → einem      kein → keinem\ndie (pl) → den (+n on noun!)    keine → keinen\n\nPRONOUNS IN DATIVE:\nich→mir   du→dir   er→ihm   sie→ihr   es→ihm\nwir→uns   ihr→euch  sie→ihnen  Sie→Ihnen\n\nCOMMON DATIVE VERBS:\nhelfen, danken, gefallen, gehören, schmecken, passen, fehlen\n```",
+    "vocabulary": [
+      [
+        "mir",
+        "to me"
+      ],
+      [
+        "dir",
+        "to you"
+      ],
+      [
+        "ihm",
+        "to him"
+      ],
+      [
+        "ihr",
+        "to her"
+      ],
+      [
+        "uns",
+        "to us"
+      ],
+      [
+        "euch",
+        "to you all"
+      ],
+      [
+        "Ihnen",
+        "to you formal"
+      ],
+      [
+        "gefallen",
+        "to please"
+      ],
+      [
+        "schmecken",
+        "to taste"
+      ],
+      [
+        "passen",
+        "to fit/suit"
+      ],
+      [
+        "fehlen",
+        "to be missing"
+      ],
+      [
+        "gratulieren",
+        "to congratulate"
+      ]
+    ],
+    "exercises": [
+      "Dative pronoun: Ich helfe ___ (du).",
+      "Dative pronoun: Das schmeckt ___ (ich).",
+      "Dative article: Ich gebe d___ Frau das Buch.",
+      "Which verbs take dative? Name 3."
+    ],
+    "tip": "💡 'Mir ist kalt' = 'I'm cold' (literally: 'To me is cold'). German uses dative for physical states: mir ist warm/schlecht/langweilig.",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-05-30",
+    "day": 35,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "All Two-Way Prepositions",
+    "grammar_title": "Wechselpräpositionen — full set of 9",
+    "grammar_content": "These 9 prepositions take ACC for motion, DAT for location:\n\n```\nPREPOSITION   WHERE? (DAT)           WHERE TO? (AKK)\nin           im Haus                ins Haus\nauf          auf dem Tisch           auf den Tisch\nan           an der Wand             an die Wand\nvor          vor dem Haus            vor das Haus\nhinter       hinter dem Haus         hinter das Haus\nneben        neben dem Tisch         neben den Tisch\nüber         über dem Tisch          über den Tisch\nunter        unter dem Tisch         unter den Tisch\nzwischen     zwischen den Häusern    zwischen die Häuser\n```\n\n📌 Question test: Wo? (Where?) → Dative. Wohin? (Where to?) → Accusative.",
+    "vocabulary": [
+      [
+        "vor",
+        "in front of"
+      ],
+      [
+        "hinter",
+        "behind"
+      ],
+      [
+        "neben",
+        "next to"
+      ],
+      [
+        "über",
+        "above/over"
+      ],
+      [
+        "unter",
+        "under"
+      ],
+      [
+        "zwischen",
+        "between"
+      ],
+      [
+        "hängen",
+        "to hang"
+      ],
+      [
+        "stellen",
+        "to place (stand)"
+      ],
+      [
+        "legen",
+        "to lay (flat)"
+      ],
+      [
+        "sitzen",
+        "to sit"
+      ],
+      [
+        "setzen",
+        "to sit down"
+      ],
+      [
+        "der Spiegel",
+        "mirror"
+      ],
+      [
+        "der Schrank",
+        "cupboard"
+      ]
+    ],
+    "exercises": [
+      "Where? Das Buch liegt ___ d___ Tisch. (auf + location)",
+      "Where to? Ich lege das Buch ___ d___ Tisch. (auf + motion)",
+      "How many Wechselpräpositionen are there?",
+      "What test question tells you which case to use?"
+    ],
+    "tip": "💡 Mnemonic: 'AUS-BEI-MIT' (dative only) and 'DOGFU' (accusative only) are fixed. Everything else is two-way — just ask 'Wo?' or 'Wohin?'",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-05-31",
+    "day": 36,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Myself, Yourself: Reflexive Verbs",
+    "grammar_title": "Reflexive Verben — sich waschen, sich freuen...",
+    "grammar_content": "Reflexive verbs need a pronoun that refers back to the subject:\n\n```\nsich waschen (to wash oneself)\nich wasche mich       wir waschen uns\ndu wäschst dich        ihr wascht euch\ner wäscht sich         sie waschen sich\n\nCOMMON REFLEXIVE VERBS:\nsich freuen auf/über   to look forward to / be happy about\nsich interessieren für to be interested in\nsich treffen mit       to meet with\nsich erinnern an       to remember\nsich beeilen           to hurry\n```\n\n📌 The reflexive pronoun is usually ACCUSATIVE, but switches to DATIVE with a direct object:\nIch wasche mich. vs. Ich wasche mir die Hände.",
+    "vocabulary": [
+      [
+        "sich waschen",
+        "to wash oneself"
+      ],
+      [
+        "sich freuen",
+        "to be happy/look forward"
+      ],
+      [
+        "sich interessieren",
+        "to be interested"
+      ],
+      [
+        "sich treffen",
+        "to meet"
+      ],
+      [
+        "sich erinnern",
+        "to remember"
+      ],
+      [
+        "sich beeilen",
+        "to hurry"
+      ],
+      [
+        "sich fühlen",
+        "to feel"
+      ],
+      [
+        "sich setzen",
+        "to sit down"
+      ],
+      [
+        "sich anziehen",
+        "to get dressed"
+      ],
+      [
+        "sich ausruhen",
+        "to rest"
+      ]
+    ],
+    "exercises": [
+      "Reflexive: Ich freue ___ auf das Wochenende.",
+      "Reflexive: Interessierst du ___ für Musik?",
+      "Reflexive: Wir treffen ___ um 8 Uhr.",
+      "What does 'sich' mean in reflexive verbs?"
+    ],
+    "tip": "💡 'Sich' = 'oneself'. Think of it as the action coming back to the subject. 'Ich wasche MICH' = I wash MYSELF.",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-01",
+    "day": 37,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "The Big One: Adjective Endings (Part 1)",
+    "grammar_title": "Adjective endings after definite articles (der/die/das)",
+    "grammar_content": "After DER/DIE/DAS, adjective endings are simple:\n\n```\n          MASC      FEM       NEUT      PLURAL\nNOM:      -e        -e        -e        -en\nACC:      -en       -e        -e        -en\nDAT:      -en       -en       -en       -en\n\nEXAMPLES:\nder gute Mann (nom)     Ich sehe den guten Mann (acc)\ndie schöne Frau (nom)   mit der schönen Frau (dat)\ndas kleine Kind (nom)   für das kleine Kind (acc)\ndie alten Bücher (nom)  von den alten Büchern (dat)\n```\n\n📌 Pattern: Only 2 endings — 'e' (used in 5 spots) or 'en' (used in 11 spots). Mostly -en!",
+    "vocabulary": [
+      [
+        "der gute Wein",
+        "the good wine"
+      ],
+      [
+        "die frische Milch",
+        "the fresh milk"
+      ],
+      [
+        "das warme Brot",
+        "the warm bread"
+      ],
+      [
+        "die netten Leute",
+        "the nice people"
+      ],
+      [
+        "freundlich",
+        "friendly"
+      ],
+      [
+        "interessant",
+        "interesting"
+      ],
+      [
+        "wichtig",
+        "important"
+      ],
+      [
+        "einfach",
+        "simple/easy"
+      ],
+      [
+        "schwierig",
+        "difficult"
+      ],
+      [
+        "zufrieden",
+        "satisfied"
+      ]
+    ],
+    "exercises": [
+      "Nom: d__ gut__ Mann",
+      "Acc: Ich sehe d__ gut__ Mann.",
+      "Dat: mit d__ gut__ Mann",
+      "What are the two possible adjective endings after definite articles?"
+    ],
+    "tip": "💡 After 'der/die/das', there are only 2 endings to remember: -e and -en. Mostly -en. That's it!",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-02",
+    "day": 38,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Adjective Endings (Part 2)",
+    "grammar_title": "Adjective endings after indefinite articles (ein/eine)",
+    "grammar_content": "After EIN/EINE, the adjective carries the gender signal:\n\n```\n          MASC      FEM       NEUT      PLURAL\nNOM:      -er       -e        -es       -en\nACC:      -en       -e        -es       -en\nDAT:      -en       -en       -en       -en\n\nEXAMPLES:\nein guter Freund (nom)      Ich habe einen guten Freund (acc)\neine schöne Stadt (nom)     in einer schönen Stadt (dat)\nein kleines Problem (nom)   mit einem kleinen Problem (dat)\n```\n\n📌 The adjective shows gender because 'ein' doesn't: einER (masc), einE (fem), einES (neut).",
+    "vocabulary": [
+      [
+        "ein guter Freund",
+        "a good friend"
+      ],
+      [
+        "eine nette Person",
+        "a nice person"
+      ],
+      [
+        "ein kleines Geschenk",
+        "a small gift"
+      ],
+      [
+        "kein schlechter Plan",
+        "not a bad plan"
+      ],
+      [
+        "möglich",
+        "possible"
+      ],
+      [
+        "unmöglich",
+        "impossible"
+      ],
+      [
+        "bequem",
+        "comfortable"
+      ],
+      [
+        "gefährlich",
+        "dangerous"
+      ],
+      [
+        "sicher",
+        "safe/certain"
+      ],
+      [
+        "lustig",
+        "funny"
+      ]
+    ],
+    "exercises": [
+      "Nom: ein gut___ Freund",
+      "Acc: Ich sehe ein___ gut___ Freund.",
+      "Nom: ein klein___ Problem",
+      "Why does 'ein' need the adjective to show gender?"
+    ],
+    "tip": "💡 With 'ein', the adjective ending looks like the 'der/die/das' ending: -er (like der), -e (like die), -es (like das).",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-03",
+    "day": 39,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Adjective Endings (Part 3)",
+    "grammar_title": "Adjective endings with NO article",
+    "grammar_content": "When there's NO article at all, the adjective carries the full load:\n\n```\n          MASC      FEM       NEUT      PLURAL\nNOM:      -er       -e        -es       -e\nACC:      -en       -e        -es       -e\nDAT:      -em       -er       -em       -en\nGEN:      -en       -er       -en       -er\n\nEXAMPLES:\nGuter Wein ist teuer. (nom masc)\nIch trinke gern kalten Kaffee. (acc masc)\nmit großer Freude (dat fem)\nfrische Milch (nom fem)\n```\n\n📌 Without an article, the adjective ending looks just like 'der/die/das' would!",
+    "vocabulary": [
+      [
+        "guter Kaffee",
+        "good coffee"
+      ],
+      [
+        "frische Milch",
+        "fresh milk"
+      ],
+      [
+        "kaltes Wasser",
+        "cold water"
+      ],
+      [
+        "nette Leute",
+        "nice people"
+      ],
+      [
+        "deutscher Wein",
+        "German wine"
+      ],
+      [
+        "französischer Käse",
+        "French cheese"
+      ],
+      [
+        "heißer Tee",
+        "hot tea"
+      ],
+      [
+        "süße Schokolade",
+        "sweet chocolate"
+      ],
+      [
+        "scharfes Essen",
+        "spicy food"
+      ],
+      [
+        "trockenes Brot",
+        "dry bread"
+      ]
+    ],
+    "exercises": [
+      "No article (nom masc): ___ Wein (gut)",
+      "No article (acc masc): Ich kaufe ___ Wein (gut)",
+      "No article (dat fem): mit ___ Milch (frisch)",
+      "No article (nom neut): ___ Wasser (kalt)"
+    ],
+    "tip": "💡 Master this: the ending IS the article. If 'der' would be there, use -er. If 'das', use -es. If 'die', use -e. Simple!",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-04",
+    "day": 40,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Bigger, Better, Best: Comparative & Superlative",
+    "grammar_title": "Komparativ und Superlativ",
+    "grammar_content": "COMPARATIVE: adjective + -er   →   größer, schneller, besser\nSUPERLATIVE: am + adjective + -sten   →   am größten, am schnellsten\n\n```\nBASE        COMPARATIVE (-er)    SUPERLATIVE (am ... -sten)\ngroß        größer               am größten\nschnell     schneller            am schnellsten\nteuer       teurer               am teuersten\n\nIRREGULAR:\ngut → besser → am besten\nviel → mehr → am meisten\ngern → lieber → am liebsten\nhoch → höher → am höchsten\n```\n\n📌 Most 1-syllable adjectives add Umlaut: groß→größer, alt→älter, jung→jünger.",
+    "vocabulary": [
+      [
+        "besser",
+        "better"
+      ],
+      [
+        "am besten",
+        "best"
+      ],
+      [
+        "mehr",
+        "more"
+      ],
+      [
+        "am meisten",
+        "most"
+      ],
+      [
+        "lieber",
+        "prefer"
+      ],
+      [
+        "am liebsten",
+        "most of all"
+      ],
+      [
+        "höher",
+        "higher"
+      ],
+      [
+        "am höchsten",
+        "highest"
+      ],
+      [
+        "wichtiger",
+        "more important"
+      ],
+      [
+        "am wichtigsten",
+        "most important"
+      ]
+    ],
+    "exercises": [
+      "Comparative of 'gut': ?",
+      "Superlative of 'groß': am ___",
+      "Translate: Berlin is bigger than Munich.",
+      "Translate: This is the best restaurant."
+    ],
+    "tip": "💡 'Als' = than. 'So...wie' = as...as. 'Ich bin so groß wie du.' (I'm as tall as you.) 'Ich bin größer als du.' (I'm taller than you.)",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-05",
+    "day": 41,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "That-Clauses: 'dass'",
+    "grammar_title": "Subordinate clauses with 'dass' (that)",
+    "grammar_content": "Like 'weil', 'dass' pushes the verb to the END:\n\n```\nIch weiß, dass du recht hast.  (I know that you're right.)\nEr sagt, dass er kommt.        (He says that he's coming.)\nIch hoffe, dass es klappt.     (I hope that it works out.)\n\nCOMMON dass-VERBS:\nwissen, dass...     (to know that...)\nsagen, dass...      (to say that...)\nhoffen, dass...     (to hope that...)\nglauben, dass...    (to believe that...)\ndenken, dass...     (to think that...)\n```\n\n📌 NEVER forget the comma before 'dass'!",
+    "vocabulary": [
+      [
+        "dass",
+        "that"
+      ],
+      [
+        "wissen",
+        "to know"
+      ],
+      [
+        "hoffen",
+        "to hope"
+      ],
+      [
+        "glauben",
+        "to believe"
+      ],
+      [
+        "denken",
+        "to think"
+      ],
+      [
+        "sagen",
+        "to say"
+      ],
+      [
+        "die Hoffnung",
+        "hope"
+      ],
+      [
+        "die Meinung",
+        "opinion"
+      ],
+      [
+        "klar",
+        "clear"
+      ],
+      [
+        "sicher",
+        "sure/certain"
+      ]
+    ],
+    "exercises": [
+      "Join: Ich weiß. Du hast recht. → Ich weiß, dass ___",
+      "Join: Ich hoffe. Es regnet nicht. → Ich hoffe, dass ___",
+      "Where does the verb go in a 'dass' clause?",
+      "What's the difference between 'dass' and 'das'?"
+    ],
+    "tip": "💡 'dass' (conjunction) ≠ 'das' (article/pronoun). 'Dass' means 'that' as a connector. 'Das' means 'the' or 'that' as a demonstrative.",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-06",
+    "day": 42,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Giving Reasons Again: 'weil' Deep Dive",
+    "grammar_title": "Weil + more complex sentences",
+    "grammar_content": "Now use 'weil' with modal verbs, separable verbs, and Perfekt:\n\n```\nMODAL VERBS (modal stays at end):\n...weil ich nicht kommen kann.\n...weil er Deutsch lernen muss.\n\nSEPARABLE VERBS (prefix rejoins!):\n...weil ich um 7 Uhr aufstehe. (NOT: auf...stehe!)\n...weil er heute einkauft.\n\nPERFEKT (haben/sein at the VERY END):\n...weil ich Deutsch gelernt habe.\n...weil sie nach Berlin gefahren ist.\n```\n\n📌 In a weil-clause, the conjugated verb goes to the absolute END. Everything else stays in order.",
+    "vocabulary": [
+      [
+        "deshalb",
+        "therefore"
+      ],
+      [
+        "darum",
+        "that's why"
+      ],
+      [
+        "nämlich",
+        "namely/because (colloquial)"
+      ],
+      [
+        "aufstehen",
+        "to get up"
+      ],
+      [
+        "einkaufen",
+        "to shop"
+      ],
+      [
+        "ausgehen",
+        "to go out"
+      ],
+      [
+        "ankommen",
+        "to arrive"
+      ],
+      [
+        "besonders",
+        "especially"
+      ],
+      [
+        "eigentlich",
+        "actually"
+      ],
+      [
+        "der Fehler",
+        "mistake"
+      ]
+    ],
+    "exercises": [
+      "weil + modal: ...weil ich nicht kommen ___ (können)",
+      "weil + separable: ...weil er früh ___ (aufstehen)",
+      "weil + Perfekt: ...weil sie krank ___ (sein — Perfekt)",
+      "Where does the separable prefix go in a weil-clause?"
+    ],
+    "tip": "💡 Weil-clauses are the #1 grammar trap. Practice 'weil + subject + stuff + VERB' until it feels automatic. Drill it!",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-07",
+    "day": 43,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "If and When: 'wenn' Clauses",
+    "grammar_title": "Conditional 'wenn' (if/whenever)",
+    "grammar_content": "'wenn' for conditions and repeated events (same structure as weil):\n\n```\nWenn ich Zeit habe, lerne ich Deutsch.\n(If/When I have time, I study German.)\n\nWenn es regnet, bleibe ich zu Hause.\n(If it rains, I stay home.)\n\nKEY: When the wenn-clause comes first, the MAIN clause starts with the VERB:\nWenn ich müde bin, TRINKE ich Kaffee.\n```\n\n📌 'wenn' = if (condition) OR whenever (repeated). For single past event, use 'als'.",
+    "vocabulary": [
+      [
+        "wenn",
+        "if/whenever"
+      ],
+      [
+        "falls",
+        "in case/if"
+      ],
+      [
+        "das Wetter",
+        "weather"
+      ],
+      [
+        "regnen",
+        "to rain"
+      ],
+      [
+        "scheinen",
+        "to shine"
+      ],
+      [
+        "wenn möglich",
+        "if possible"
+      ],
+      [
+        "auf jeden Fall",
+        "in any case"
+      ],
+      [
+        "vielleicht",
+        "perhaps"
+      ],
+      [
+        "wahrscheinlich",
+        "probably"
+      ],
+      [
+        "unbedingt",
+        "definitely/absolutely"
+      ]
+    ],
+    "exercises": [
+      "Join: Ich habe Zeit. Ich komme. → Wenn ___, ___ ich.",
+      "Join: Es regnet. Ich bleibe zu Hause. → Wenn ___, ___ ich.",
+      "What happens to main clause verb order when wenn-clause comes first?",
+      "wenn vs als — when do you use each?"
+    ],
+    "tip": "💡 When the 'wenn' part comes first, the main clause starts with the verb. 'Wenn ich Zeit habe, GEHE ich.' (NOT 'ich gehe'!)",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-08",
+    "day": 44,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Back Then: 'als' for Past Events",
+    "grammar_title": "Temporal conjunction 'als' (when — single past event)",
+    "grammar_content": "'Als' is for a single past event. 'Wenn' is for repeated or present/future:\n\n```\nALS (one-time past):\nAls ich 18 war, bin ich nach Deutschland gereist.\n(When I was 18, I traveled to Germany.)\n\nWENN (repeated/habitual):\nWenn ich in Berlin war, habe ich immer Currywurst gegessen.\n(Whenever I was in Berlin, I always ate Currywurst.)\n\nCOMPARE:\nAls ich ankam...  (When I arrived — that one time)\nWenn ich ankomme... (When/Whenever I arrive — each time)\n```",
+    "vocabulary": [
+      [
+        "als",
+        "when (single past)"
+      ],
+      [
+        "damals",
+        "back then"
+      ],
+      [
+        "früher",
+        "earlier/in the past"
+      ],
+      [
+        "als Kind",
+        "as a child"
+      ],
+      [
+        "die Vergangenheit",
+        "the past"
+      ],
+      [
+        "passieren",
+        "to happen"
+      ],
+      [
+        "erleben",
+        "to experience"
+      ],
+      [
+        "sich erinnern an",
+        "to remember"
+      ],
+      [
+        "vergessen",
+        "to forget"
+      ],
+      [
+        "die Geschichte",
+        "story/history"
+      ]
+    ],
+    "exercises": [
+      "Fill in: ___ ich Kind war, wohnte ich in China. (als/wenn)",
+      "Fill in: ___ es regnet, bleibe ich zu Hause. (als/wenn)",
+      "Explain difference: 'als' vs 'wenn' for past events.",
+      "Translate: When I was 10, I learned to swim."
+    ],
+    "tip": "💡 'Als' is ONLY for past, one-time events. If it happened more than once in the past, switch to 'wenn'. This is a classic mistake!",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-09",
+    "day": 45,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Written Past: Präteritum Basics",
+    "grammar_title": "Präteritum of sein, haben, and modal verbs",
+    "grammar_content": "Präteritum is mainly for WRITING. But for these verbs, it's used in speech too:\n\n```\nsein → war        haben → hatte       werden → wurde\n\nich war            ich hatte           es wurde\ndu warst           du hattest          ...\ner war             er hatte\nwir waren          wir hatten\nihr wart           ihr hattet\nsie waren          sie hatten\n\nMODAL VERBS (drop Umlaut):\nkönnen → konnte    müssen → musste    dürfen → durfte\nwollen → wollte    sollen → sollte    mögen → mochte\n```\n\n📌 'Ich war' not 'Ich bin gewesen' — use Präteritum for sein/haben even when speaking!",
+    "vocabulary": [
+      [
+        "war",
+        "was"
+      ],
+      [
+        "hatte",
+        "had"
+      ],
+      [
+        "wurde",
+        "became"
+      ],
+      [
+        "konnte",
+        "could"
+      ],
+      [
+        "musste",
+        "had to"
+      ],
+      [
+        "wollte",
+        "wanted to"
+      ],
+      [
+        "durfte",
+        "was allowed to"
+      ],
+      [
+        "sollte",
+        "should/was supposed to"
+      ],
+      [
+        "mochte",
+        "liked"
+      ],
+      [
+        "früher",
+        "in the past/earlier"
+      ]
+    ],
+    "exercises": [
+      "Präteritum: Gestern ___ ich müde. (sein)",
+      "Präteritum: Früher ___ wir kein Auto. (haben)",
+      "Präteritum: Ich ___ nicht kommen. (können)",
+      "Which 3 verbs use Präteritum even in spoken German?"
+    ],
+    "tip": "💡 Use 'war' and 'hatte' in everyday speech — 'Ich bin gewesen' sounds awkward. But for 'machen', use 'Ich habe gemacht' not 'Ich machte'.",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-10",
+    "day": 46,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Infinitive with 'zu'",
+    "grammar_title": "zu + Infinitiv — 'to do' something",
+    "grammar_content": "When a second verb follows certain constructions, add 'zu' before it:\n\n```\nIch habe vor, Deutsch zu lernen. (I plan to learn German.)\nEs ist wichtig, viel zu üben.   (It's important to practice a lot.)\nIch habe keine Lust, zu kochen.  (I don't feel like cooking.)\n\nCOMMON PHRASES with zu:\nvorhaben, ... zu ...       (to plan to...)\nLust haben, ... zu ...     (to feel like...)\nEs ist + adj, ... zu ...   (It is X to...)\nanfangen, ... zu ...       (to begin to...)\n```\n\n📌 For separable verbs, 'zu' goes between prefix and stem: anZUrulen, aufZUräumen.",
+    "vocabulary": [
+      [
+        "vorhaben",
+        "to plan/intend"
+      ],
+      [
+        "Lust haben",
+        "to feel like"
+      ],
+      [
+        "anfangen",
+        "to start/begin"
+      ],
+      [
+        "aufhören",
+        "to stop"
+      ],
+      [
+        "versuchen",
+        "to try"
+      ],
+      [
+        "vergessen",
+        "to forget"
+      ],
+      [
+        "empfehlen",
+        "to recommend"
+      ],
+      [
+        "bitten",
+        "to ask/request"
+      ],
+      [
+        "die Gelegenheit",
+        "opportunity"
+      ],
+      [
+        "die Absicht",
+        "intention"
+      ]
+    ],
+    "exercises": [
+      "zu-Infinitiv: Ich habe vor, Deutsch ___ ___ (lernen)",
+      "zu-Infinitiv: Es ist schwer, früh ___ (aufstehen)",
+      "zu-Infinitiv: Ich versuche, mehr ___ ___ (lesen)",
+      "Where does 'zu' go in separable verbs?"
+    ],
+    "tip": "💡 'Zu' acts like English 'to'. But after modal verbs (können, müssen), NEVER use 'zu'. 'Ich kann Deutsch sprechen' not 'Ich kann Deutsch zu sprechen.'",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-11",
+    "day": 47,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Genitive Case: Ownership",
+    "grammar_title": "Genitive case — des/eines + -s/-es",
+    "grammar_content": "Genitive shows possession. In spoken German, 'von' + dative often replaces it:\n\n```\nGENITIVE (formal/written):\ndas Auto des Mannes         (the man's car)\ndie Tasche der Frau         (the woman's bag)\ndas Spielzeug des Kindes    (the child's toy)\n\nVON + DATIVE (spoken):\ndas Auto von dem Mann       (the car of the man)\ndie Tasche von der Frau\n\nMASC/NEUT GENITIVE:\nder → des (+ -s/-es on noun!)  ein → eines (+ -s/-es)\nFEM/PLURAL:\ndie → der   eine → einer   (no change on noun)\n```",
+    "vocabulary": [
+      [
+        "das Auto des Mannes",
+        "the man's car"
+      ],
+      [
+        "wegen",
+        "because of (+gen)"
+      ],
+      [
+        "trotz",
+        "despite (+gen)"
+      ],
+      [
+        "während",
+        "during (+gen)"
+      ],
+      [
+        "statt",
+        "instead of (+gen)"
+      ],
+      [
+        "der Besitzer",
+        "owner"
+      ],
+      [
+        "gehören",
+        "to belong to"
+      ],
+      [
+        "der Wagen",
+        "car"
+      ],
+      [
+        "das Grundstück",
+        "property"
+      ],
+      [
+        "der Ausweis",
+        "ID card"
+      ]
+    ],
+    "exercises": [
+      "Genitive: das Buch ___ Mannes (der)",
+      "Genitive: die Farbe ___ Tasche (die)",
+      "Genitive: die Größe ___ Hauses (das)",
+      "Rewrite with von: das Auto des Vaters → ?"
+    ],
+    "tip": "💡 Genitive is fading in spoken German. 'Das Auto vom Chef' is more natural than 'das Auto des Chefs'. But learn it for writing and formal contexts!",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-12",
+    "day": 48,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Future with 'werden'",
+    "grammar_title": "werden + infinitive = future tense",
+    "grammar_content": "While present tense works for most future, 'werden' adds emphasis:\n\n```\nwerden (will / going to)\nich werde          wir werden\ndu wirst           ihr werdet\ner/sie/es wird     sie/Sie werden\n\nIch werde morgen kommen.       (I will come tomorrow.)\nEs wird wahrscheinlich regnen. (It will probably rain.)\nDas wirst du bereuen!          (You'll regret that!)\n```\n\n📌 Use 'werden' for predictions, promises, and emphatic future. For plans, present tense is better.",
+    "vocabulary": [
+      [
+        "werden",
+        "will/become"
+      ],
+      [
+        "die Zukunft",
+        "future"
+      ],
+      [
+        "vorhersagen",
+        "to predict"
+      ],
+      [
+        "bestimmt",
+        "definitely"
+      ],
+      [
+        "wahrscheinlich",
+        "probably"
+      ],
+      [
+        "vielleicht",
+        "maybe"
+      ],
+      [
+        "hoffentlich",
+        "hopefully"
+      ],
+      [
+        "garantiert",
+        "guaranteed"
+      ],
+      [
+        "der Plan",
+        "plan"
+      ],
+      [
+        "nächstes Mal",
+        "next time"
+      ]
+    ],
+    "exercises": [
+      "Future: Ich ___ morgen kommen. (werden)",
+      "Future: Es ___ regnen. (werden)",
+      "Future: Was ___ du machen? (werden)",
+      "When is 'werden' preferred over present tense?"
+    ],
+    "tip": "💡 'Werden' is also the verb 'to become'. 'Ich werde Arzt' = 'I'm becoming a doctor'. Context tells you which meaning!",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-13",
+    "day": 49,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Indirect Questions",
+    "grammar_title": "Ob, wann, wie... in reported questions",
+    "grammar_content": "Embedded questions use the same structure as subordinate clauses:\n\n```\nDIRECT: Wann kommt er?\nINDIRECT: Ich weiß nicht, wann er kommt.\n\nDIRECT: Kommt er morgen?\nINDIRECT: Ich frage mich, ob er morgen kommt.\n\nDIRECT: Wie heißt sie?\nINDIRECT: Weißt du, wie sie heißt?\n\nKEY: Use 'ob' for yes/no questions. Use the W-word for W-questions.\nThe verb goes to the END of the indirect question.\n```",
+    "vocabulary": [
+      [
+        "ob",
+        "whether/if"
+      ],
+      [
+        "sich fragen",
+        "to wonder"
+      ],
+      [
+        "wissen",
+        "to know"
+      ],
+      [
+        "keine Ahnung",
+        "no idea"
+      ],
+      [
+        "herausfinden",
+        "to find out"
+      ],
+      [
+        "die Antwort",
+        "answer"
+      ],
+      [
+        "sicher",
+        "sure/certain"
+      ],
+      [
+        "vielleicht",
+        "maybe"
+      ],
+      [
+        "angeblich",
+        "supposedly"
+      ],
+      [
+        "es kommt darauf an",
+        "it depends"
+      ]
+    ],
+    "exercises": [
+      "Indirect: Kommt er? → Ich weiß nicht, ___ er ___.",
+      "Indirect: Wann fängt es an? → Kannst du mir sagen, wann ___?",
+      "When do you use 'ob' vs 'wann/wie/wo' in indirect questions?",
+      "Translate: Do you know where she lives?"
+    ],
+    "tip": "💡 Indirect questions sound more polite: 'Könnten Sie mir sagen, wo der Bahnhof ist?' is much nicer than 'Wo ist der Bahnhof?'",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-14",
+    "day": 50,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Conjunctions: und, oder, aber, denn, sondern",
+    "grammar_title": "Coordinating conjunctions (no word order change!)",
+    "grammar_content": "These 5 conjunctions connect two main clauses — verb position STAYS:\n\n```\nund     = and       Ich lerne und er schläft.\noder    = or        Möchtest du Tee oder trinkst du Kaffee?\naber    = but       Es ist teuer, aber es ist gut.\ndenn    = because   Ich gehe, denn ich bin müde. (verb normal!)\nsondern = but/rather Nicht Tee, sondern Kaffee. (after negative!)\n\n⚠️ 'denn' (because) = same word order. 'weil' (because) = verb to end.\n```",
+    "vocabulary": [
+      [
+        "und",
+        "and"
+      ],
+      [
+        "oder",
+        "or"
+      ],
+      [
+        "aber",
+        "but"
+      ],
+      [
+        "denn",
+        "because"
+      ],
+      [
+        "sondern",
+        "but rather/instead"
+      ],
+      [
+        "weder...noch",
+        "neither...nor"
+      ],
+      [
+        "entweder...oder",
+        "either...or"
+      ],
+      [
+        "sowohl...als auch",
+        "both...and"
+      ],
+      [
+        "trotzdem",
+        "nevertheless"
+      ],
+      [
+        "allerdings",
+        "however"
+      ]
+    ],
+    "exercises": [
+      "Fill: Ich mag Tee, ___ ich trinke auch Kaffee. (und/aber/denn)",
+      "Fill: Nicht Kaffee, ___ Tee. (aber/sondern)",
+      "Which 'because' keeps normal word order?",
+      "Translate: I'm tired, so I'm going to bed."
+    ],
+    "tip": "💡 'Sondern' only works after a negation. 'Nicht X, sondern Y'. Using 'aber' here is a dead giveaway that you're not a native speaker!",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-15",
+    "day": 51,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Therefore / Nevertheless: Connectors",
+    "grammar_title": "Deshalb, trotzdem, sonst, dann",
+    "grammar_content": "These connectors link ideas. They take position 1, pushing the verb to position 2:\n\n```\ndeshalb   = therefore    Ich bin krank. Deshalb bleibe ich zu Hause.\ntrotzdem  = nevertheless Ich bin krank. Trotzdem gehe ich arbeiten.\nsonst     = otherwise    Ich muss lernen, sonst bestehe ich die Prüfung nicht.\ndann      = then         Zuerst frühstücke ich, dann dusche ich.\n\nPATTERN: ... . Deshalb VERB SUBJECT ...\n               ↑ position 1 = deshalb, position 2 = verb\n```",
+    "vocabulary": [
+      [
+        "deshalb",
+        "therefore"
+      ],
+      [
+        "trotzdem",
+        "nevertheless"
+      ],
+      [
+        "sonst",
+        "otherwise"
+      ],
+      [
+        "dann",
+        "then"
+      ],
+      [
+        "danach",
+        "after that"
+      ],
+      [
+        "vorher",
+        "before"
+      ],
+      [
+        "zuerst",
+        "first"
+      ],
+      [
+        "später",
+        "later"
+      ],
+      [
+        "gleich",
+        "right away"
+      ],
+      [
+        "sofort",
+        "immediately"
+      ]
+    ],
+    "exercises": [
+      "Fill: Ich habe Hunger. ___ esse ich etwas. (deshalb)",
+      "Fill: Es regnet. ___ gehe ich spazieren. (trotzdem)",
+      "Fill: Beeil dich, ___ kommen wir zu spät. (sonst)",
+      "What happens to word order after 'deshalb'?"
+    ],
+    "tip": "💡 'Deshalb' = therefore (cause → effect). 'Trotzdem' = nevertheless (despite the cause). Both push the verb to position 2.",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-16",
+    "day": 52,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Verb + Preposition Combos",
+    "grammar_title": "Fixed verb-preposition pairs",
+    "grammar_content": "Many German verbs require a specific preposition + case:\n\n```\nACCUSATIVE:\nwarten auf + Akk       (to wait for)\ndenken an + Akk        (to think of/about)\nsich freuen auf + Akk  (to look forward to)\n\nDATIVE:\nAngst haben vor + Dat  (to be afraid of)\nträumen von + Dat      (to dream of/about)\nsich kümmern um + Akk  (to take care of)\nsich interessieren für + Akk (to be interested in)\n```\n\n📌 You must learn these as fixed phrases. They don't match English prepositions!",
+    "vocabulary": [
+      [
+        "warten auf",
+        "to wait for (+akk)"
+      ],
+      [
+        "denken an",
+        "to think of (+akk)"
+      ],
+      [
+        "Angst haben vor",
+        "to be afraid of (+dat)"
+      ],
+      [
+        "träumen von",
+        "to dream of (+dat)"
+      ],
+      [
+        "sich kümmern um",
+        "to take care of (+akk)"
+      ],
+      [
+        "sich freuen auf",
+        "to look forward to (+akk)"
+      ],
+      [
+        "sich freuen über",
+        "to be happy about (+akk)"
+      ],
+      [
+        "sprechen über",
+        "to talk about (+akk)"
+      ],
+      [
+        "bitten um",
+        "to ask for (+akk)"
+      ],
+      [
+        "gehören zu",
+        "to belong to (+dat)"
+      ]
+    ],
+    "exercises": [
+      "Fill: Ich warte ___ d___ Bus. (auf + akk)",
+      "Fill: Denkst du ___ d___ Urlaub? (an + akk)",
+      "Fill: Er träumt ___ ein___ Reise. (von + dat)",
+      "What case does 'warten auf' take?"
+    ],
+    "tip": "💡 These are the hardest thing to get right in German because they rarely match English. 'Wait for' = 'warten auf'. Just memorize them!",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-17",
+    "day": 53,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Passive Voice Intro",
+    "grammar_title": "Passive present: werden + Partizip II",
+    "grammar_content": "Passive shifts focus from the DOER to the ACTION:\n\n```\nAKTIV: Der Bäcker backt das Brot.  (The baker bakes the bread.)\nPASSIV: Das Brot wird gebacken.    (The bread is baked.)\n\nAKTIV: Man spricht hier Deutsch.   (People speak German here.)\nPASSIV: Hier wird Deutsch gesprochen. (German is spoken here.)\n\nFORMULA: werden (conjugated) + Partizip II (at end)\nDas Haus wird gebaut.  (The house is being built.)\nDie Tür wird geöffnet. (The door is being opened.)\n```\n\n📌 'werden' = passive. Don't confuse with 'werden' = future!",
+    "vocabulary": [
+      [
+        "wird gebaut",
+        "is being built"
+      ],
+      [
+        "wird gemacht",
+        "is being done"
+      ],
+      [
+        "wird gesprochen",
+        "is spoken"
+      ],
+      [
+        "wird geschrieben",
+        "is written"
+      ],
+      [
+        "wird verkauft",
+        "is sold"
+      ],
+      [
+        "wird geöffnet",
+        "is opened"
+      ],
+      [
+        "wird geschlossen",
+        "is closed"
+      ],
+      [
+        "wird repariert",
+        "is repaired"
+      ],
+      [
+        "von",
+        "by (agent in passive)"
+      ],
+      [
+        "durch",
+        "by/through (passive)"
+      ]
+    ],
+    "exercises": [
+      "Active → Passive: Man baut ein Haus. → Ein Haus ___ ___.",
+      "Active → Passive: Man spricht Englisch. → Englisch ___ ___.",
+      "What auxiliary verb forms the passive?",
+      "How do you say 'by' to introduce the agent in passive?"
+    ],
+    "tip": "💡 Passive is very common in German — more than in English. Signs, instructions, news all use it. 'Hier wird Deutsch gesprochen.'",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-18",
+    "day": 54,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Relative Clauses Intro",
+    "grammar_title": "Relativsätze — the person who, the thing that",
+    "grammar_content": "Relative clauses describe a noun. The relative pronoun matches gender and case:\n\n```\nNOMINATIVE (subject of relative clause):\nder Mann, der dort steht...  (the man who is standing there)\ndie Frau, die hier wohnt...  (the woman who lives here)\ndas Kind, das spielt...      (the child who is playing)\n\nACCUSATIVE (object of relative clause):\nder Mann, den ich sehe...    (the man whom I see)\ndie Frau, die ich kenne...   (the woman whom I know)\ndas Buch, das ich lese...    (the book that I'm reading)\n```\n\n📌 The verb in the relative clause goes to the END!",
+    "vocabulary": [
+      [
+        "der/die/das (relativ)",
+        "who/that/which"
+      ],
+      [
+        "dort",
+        "there"
+      ],
+      [
+        "stehen",
+        "to stand"
+      ],
+      [
+        "kennen",
+        "to know"
+      ],
+      [
+        "beschreiben",
+        "to describe"
+      ],
+      [
+        "derjenige",
+        "the one who"
+      ],
+      [
+        "die Nachbarin",
+        "neighbor (f)"
+      ],
+      [
+        "gegenüber",
+        "opposite"
+      ],
+      [
+        "nebenan",
+        "next door"
+      ],
+      [
+        "unten/oben",
+        "downstairs/upstairs"
+      ]
+    ],
+    "exercises": [
+      "Relative (nom masc): der Mann, ___ dort steht",
+      "Relative (nom fem): die Frau, ___ hier wohnt",
+      "Relative (acc masc): der Mann, ___ ich sehe",
+      "Where does the verb go in a relative clause?"
+    ],
+    "tip": "💡 Relative pronouns look identical to definite articles (der/die/das) except dative plural (denen) and genitive (dessen/deren). Easy to start!",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-19",
+    "day": 55,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "'wenn' vs 'als' — Masterclass",
+    "grammar_title": "When to use wenn, als, wann — definitive guide",
+    "grammar_content": "THREE WORDS for 'when' — here's the complete rule:\n\n```\nALS = single event in the PAST\n  Als ich 10 war, ... (When I was 10... — that one time)\n\nWENN = conditions (if) OR repeated events (whenever)\n  Wenn es regnet, ... (If/When it rains...)\n  Wenn ich in Berlin war, ... (Whenever I was in Berlin...)\n\nWANN = question word (direct or indirect)\n  Wann kommst du? (When are you coming?)\n  Weißt du, wann er kommt? (Do you know when he's coming?)\n```",
+    "vocabulary": [
+      [
+        "als",
+        "when (past, one-time)"
+      ],
+      [
+        "wenn",
+        "if/whenever"
+      ],
+      [
+        "wann",
+        "when? (question)"
+      ],
+      [
+        "jedes Mal",
+        "every time"
+      ],
+      [
+        "damals",
+        "back then"
+      ],
+      [
+        "in dem Moment",
+        "at that moment"
+      ],
+      [
+        "sobald",
+        "as soon as"
+      ],
+      [
+        "solange",
+        "as long as"
+      ],
+      [
+        "bis",
+        "until"
+      ],
+      [
+        "seitdem",
+        "since (time)"
+      ]
+    ],
+    "exercises": [
+      "Fill: ___ ich jung war, ... (talking about childhood — once)",
+      "Fill: ___ es klingelt, ... (every time)",
+      "Fill: Weißt du, ___ der Zug kommt? (question word)",
+      "Explain the 3 'whens' in German."
+    ],
+    "tip": "💡 English has ONE word 'when'. German has THREE. This is one of the hardest things to master — practice these every time you speak!",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-20",
+    "day": 56,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "The Verb 'lassen'",
+    "grammar_title": "lassen — to let, to have done, to leave",
+    "grammar_content": "'lassen' is incredibly versatile. Learn its 3 main uses:\n\n```\n1. TO LET/ALLOW:\nLass mich in Ruhe!        (Leave me alone!)\nSie lässt die Kinder spielen. (She lets the children play.)\n\n2. TO HAVE SOMETHING DONE:\nIch lasse mein Auto reparieren. (I'm having my car repaired.)\nEr lässt sich die Haare schneiden. (He's getting a haircut.)\n\n3. CAN BE + Partizip II (passive alternative):\nDas lässt sich machen.   (That can be done.)\n```",
+    "vocabulary": [
+      [
+        "lassen",
+        "to let/leave/have done"
+      ],
+      [
+        "in Ruhe lassen",
+        "to leave alone"
+      ],
+      [
+        "sich scheiden lassen",
+        "to get divorced"
+      ],
+      [
+        "reparieren lassen",
+        "to have repaired"
+      ],
+      [
+        "schneiden lassen",
+        "to have cut"
+      ],
+      [
+        "der Friseur",
+        "hairdresser"
+      ],
+      [
+        "die Werkstatt",
+        "workshop"
+      ],
+      [
+        "möglich",
+        "possible"
+      ],
+      [
+        "unmöglich",
+        "impossible"
+      ],
+      [
+        "erlauben",
+        "to allow"
+      ]
+    ],
+    "exercises": [
+      "Translate: Let me go!",
+      "Translate: I'm having my car repaired.",
+      "What does 'Das lässt sich machen' mean?",
+      "Name the 3 main uses of 'lassen'."
+    ],
+    "tip": "💡 'Lassen' + infinitive works exactly like a modal verb — the other verb goes to the end. 'Ich lasse mein Auto REPARIEREN.'",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-21",
+    "day": 57,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Don't Need To: 'brauchen + zu'",
+    "grammar_title": "nicht/nur brauchen + zu + infinitive",
+    "grammar_content": "'brauchen' + 'zu' = need to. With 'nicht' = don't need to:\n\n```\nAFFIRMATIVE:\nDu brauchst nur zu fragen. (You just need to ask.)\n\nNEGATIVE (most common):\nDu brauchst nicht zu kommen. (You don't need to come.)\nIch brauche heute nicht zu arbeiten. (I don't need to work today.)\n\n⚠️ 'nicht brauchen zu' = don't need to (no obligation)\n⚠️ 'nicht müssen' = don't have to (also no obligation — same meaning!)\n⚠️ 'nicht dürfen' = must NOT (prohibition — different!)\n```",
+    "vocabulary": [
+      [
+        "brauchen",
+        "to need"
+      ],
+      [
+        "nicht brauchen zu",
+        "don't need to"
+      ],
+      [
+        "nur brauchen zu",
+        "only need to"
+      ],
+      [
+        "nicht müssen",
+        "don't have to"
+      ],
+      [
+        "nicht dürfen",
+        "must not"
+      ],
+      [
+        "die Pflicht",
+        "duty/obligation"
+      ],
+      [
+        "freiwillig",
+        "voluntary"
+      ],
+      [
+        "notwendig",
+        "necessary"
+      ],
+      [
+        "unnötig",
+        "unnecessary"
+      ],
+      [
+        "die Erlaubnis",
+        "permission"
+      ]
+    ],
+    "exercises": [
+      "Fill: Du ___ nicht ___ kommen. (need to)",
+      "Fill: Du ___ nicht rauchen. (must not — prohibition)",
+      "What's the difference: 'nicht brauchen zu' vs 'nicht dürfen'?",
+      "Translate: You don't need to hurry."
+    ],
+    "tip": "💡 In spoken German, people often drop 'zu': 'Du brauchst nicht kommen.' It's technically wrong but extremely common colloquially.",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-22",
+    "day": 58,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Either/Or, Neither/Nor: Two-Part Connectors",
+    "grammar_title": "Zweiteilige Konnektoren",
+    "grammar_content": "These connectors come in pairs:\n\n```\nentweder...oder    = either...or\n  Entweder du kommst mit, oder du bleibst hier.\n\nweder...noch       = neither...nor\n  Ich habe weder Zeit noch Geld.\n\nsowohl...als auch  = both...and\n  Er spricht sowohl Deutsch als auch Englisch.\n\nnicht nur...sondern auch = not only...but also\n  Sie ist nicht nur klug, sondern auch nett.\n\nje...desto/umso    = the more...the more\n  Je mehr ich lerne, desto besser verstehe ich.\n```",
+    "vocabulary": [
+      [
+        "entweder...oder",
+        "either...or"
+      ],
+      [
+        "weder...noch",
+        "neither...nor"
+      ],
+      [
+        "sowohl...als auch",
+        "both...and"
+      ],
+      [
+        "nicht nur...sondern auch",
+        "not only...but also"
+      ],
+      [
+        "je...desto",
+        "the...the"
+      ],
+      [
+        "einerseits...andererseits",
+        "on one hand...on the other"
+      ],
+      [
+        "zwar...aber",
+        "admittedly...but"
+      ],
+      [
+        "teils...teils",
+        "partly...partly"
+      ],
+      [
+        "bald...bald",
+        "sometimes...sometimes"
+      ]
+    ],
+    "exercises": [
+      "Fill: Ich trinke ___ Kaffee ___ Tee. (neither...nor)",
+      "Fill: ___ mehr ich übe, ___ besser werde ich. (the...the)",
+      "Fill: Er ist ___ reich, ___ glücklich. (not only...but also)",
+      "What do 'weder...noch' and 'entweder...oder' mean?"
+    ],
+    "tip": "💡 'Je...desto' is a great structure for B1 writing: 'Je mehr man übt, desto besser wird man.' Sounds sophisticated immediately!",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-23",
+    "day": 59,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "Review: All A2 Tenses",
+    "grammar_title": "Present, Perfekt, Präteritum, Future — when to use each",
+    "grammar_content": "GERMAN TENSE GUIDE:\n\n```\nPRÄSENS (present):\n• NOW: Ich lerne Deutsch.\n• FUTURE plans: Morgen fahre ich nach Berlin.\n\nPERFEKT (spoken past): ← MOST IMPORTANT for speaking\n• Ich habe Deutsch gelernt. (I learned / have learned)\n• DEFAULT choice for CONVERSATION about the past.\n\nPRÄTERITUM (written/narrative past):\n• Ich lernte Deutsch. (sounds formal/stiff when spoken)\n• EXCEPTIONS: war, hatte, wurde, modal verbs → use in speech!\n\nFUTUR I (werden + infinitive):\n• Predictions: Es wird regnen.\n• Emphatic plans: Ich werde es schaffen!\n```",
+    "vocabulary": [
+      [
+        "die Gegenwart",
+        "present"
+      ],
+      [
+        "die Vergangenheit",
+        "past"
+      ],
+      [
+        "die Zukunft",
+        "future"
+      ],
+      [
+        "gestern",
+        "yesterday"
+      ],
+      [
+        "vorgestern",
+        "day before yesterday"
+      ],
+      [
+        "letzte Woche",
+        "last week"
+      ],
+      [
+        "vor einem Jahr",
+        "a year ago"
+      ],
+      [
+        "in einem Jahr",
+        "in a year"
+      ],
+      [
+        "erzählen",
+        "to tell/narrate"
+      ],
+      [
+        "berichten",
+        "to report"
+      ]
+    ],
+    "exercises": [
+      "Which past tense for conversation?",
+      "Which past tense for novels/newspapers?",
+      "Name 3 verbs that use Präteritum in spoken German.",
+      "How do you express future in spoken German (2 ways)?"
+    ],
+    "tip": "💡 Master the Perfekt. It's your gateway to fluent conversation. Everything you did yesterday = Perfekt. 'Ich habe...' is the most important pattern.",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-24",
+    "day": 60,
+    "level": "A2",
+    "phase": "A2 — Everyday Communication",
+    "topic": "A2 Readiness Check + B1 Preview",
+    "grammar_title": "Self-assessment: Can you handle these A2 situations?",
+    "grammar_content": "A2 COMPETENCY CHECKLIST:\n\n```\n✅ Talk about past events using Perfekt\n✅ Describe people, places, things with adjective endings\n✅ Give reasons with 'weil' (verb to end!)\n✅ Express conditions with 'wenn'\n✅ Use dative correctly (mir, dir, dem, der)\n✅ Use two-way prepositions correctly (Wo? vs Wohin?)\n✅ Form relative clauses (the man who...)\n✅ Express wishes with Konjunktiv II (würde, möchte)\n✅ Understand and use simple passive\n✅ Tell a short story in past tense\n```\n\nCount ✅ marks. 8+ = B1 ready! 5-7 = review weak spots.",
+    "vocabulary": [
+      [
+        "die Zusammenfassung",
+        "summary"
+      ],
+      [
+        "der Fortschritt",
+        "progress"
+      ],
+      [
+        "weitergehen",
+        "to continue"
+      ],
+      [
+        "das Ziel",
+        "goal"
+      ],
+      [
+        "die Hälfte",
+        "half"
+      ],
+      [
+        "erreichen",
+        "to reach/achieve"
+      ],
+      [
+        "stolz",
+        "proud"
+      ],
+      [
+        "die Herausforderung",
+        "challenge"
+      ],
+      [
+        "schaffen",
+        "to manage/make it"
+      ],
+      [
+        "die nächste Stufe",
+        "next level"
+      ]
+    ],
+    "exercises": [
+      "What level comes after A2?",
+      "Can you tell a 1-minute story in Perfekt?",
+      "Can you describe your best friend using adjective endings?",
+      "What's the biggest grammar challenge you still face?"
+    ],
+    "tip": "💡 Halfway there! A2 is where you go from 'surviving' to 'communicating'. B1 is where you become truly independent. Keep going!",
+    "speaking_hw": "Create 3 sentences using today's grammar and vocabulary and say them aloud.",
+    "writing_hw": "Write a short paragraph (50-80 words) using today's grammar and at least 8 vocabulary words."
+  },
+  {
+    "date": "2026-06-25",
+    "day": 61,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "The Polite Form: Konjunktiv II with 'würde'",
+    "grammar_title": "Konjunktiv II — würde + infinitive",
+    "grammar_content": "Use 'würde' + infinitive for polite requests and hypotheticals:\n\n```\nwürde (would)\nich würde            wir würden\ndu würdest           ihr würdet\ner/sie/es würde      sie/Sie würden\n\nPOLITE REQUESTS:\nIch würde gern bestellen.        (I would like to order.)\nWürden Sie mir helfen?           (Would you help me?)\n\nHYPOTHETICAL:\nIch würde reisen, wenn ich Zeit hätte.\n(I would travel if I had time.)\n\n📌 'würde' + infinitive is the EASIEST way to form Konjunktiv II. Use it for most verbs!",
+    "vocabulary": [
+      [
+        "würde",
+        "would"
+      ],
+      [
+        "würde gern",
+        "would like to"
+      ],
+      [
+        "würden Sie...?",
+        "would you...? (formal)"
+      ],
+      [
+        "bestellen",
+        "to order"
+      ],
+      [
+        "empfehlen",
+        "to recommend"
+      ],
+      [
+        "vorschlagen",
+        "to suggest"
+      ],
+      [
+        "die Bestellung",
+        "order"
+      ],
+      [
+        "die Reservierung",
+        "reservation"
+      ],
+      [
+        "höflich",
+        "polite"
+      ],
+      [
+        "der Vorschlag",
+        "suggestion"
+      ]
+    ],
+    "exercises": [
+      "Konjunktiv: Ich ___ gern bestellen. (würde)",
+      "Konjunktiv: Was ___ du machen? (würde)",
+      "Form polite: Helfen Sie mir? → Würden ___?",
+      "When do you use 'würde' instead of the real Konjunktiv II form?"
+    ],
+    "tip": "💡 'Würde' + infinitive is your Swiss Army knife for Konjunktiv II. It works for almost every verb. Only sein/haben/modal verbs have separate forms.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-06-26",
+    "day": 62,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "If I Had... If I Were: hätte, wäre, könnte",
+    "grammar_title": "Konjunktiv II — hätte, wäre, modal verbs",
+    "grammar_content": "Some verbs have their OWN Konjunktiv II form (more elegant):\n\n```\nhaben → hätte          Ich hätte gern einen Kaffee.\nsein → wäre            Das wäre super!\nwerden → würde         Es würde mich freuen.\n\nMODAL VERBS:\nkönnen → könnte        Könntest du mir helfen?\nmüssen → müsste        Ich müsste eigentlich arbeiten.\ndürfen → dürfte        Dürfte ich hier sitzen?\nsollen → sollte        Du solltest mehr schlafen. (advice!)\nwollen → wollte        Ich wollte, ich hätte mehr Zeit.\n```\n\n📌 Hätte/Wäre = more natural than 'würde haben/würde sein'. Use them!",
+    "vocabulary": [
+      [
+        "hätte",
+        "would have"
+      ],
+      [
+        "wäre",
+        "would be"
+      ],
+      [
+        "könnte",
+        "could/would be able"
+      ],
+      [
+        "müsste",
+        "would have to"
+      ],
+      [
+        "dürfte",
+        "would be allowed"
+      ],
+      [
+        "sollte",
+        "should"
+      ],
+      [
+        "an deiner Stelle",
+        "in your place"
+      ],
+      [
+        "eigentlich",
+        "actually"
+      ],
+      [
+        "leider",
+        "unfortunately"
+      ],
+      [
+        "wenn ich du wäre",
+        "if I were you"
+      ]
+    ],
+    "exercises": [
+      "Konjunktiv: Ich ___ gern ein Bier. (hätte)",
+      "Konjunktiv: Das ___ toll! (wäre)",
+      "Konjunktiv: ___ du mir helfen? (könnte)",
+      "What's the difference: 'sollte' (KII) vs 'sollte' (Präteritum)?"
+    ],
+    "tip": "💡 'Sollte' in Konjunktiv II = advice. 'Du solltest mehr schlafen' = 'You should sleep more'. 'Du solltest mehr schlafen' (Präteritum) = 'You were supposed to sleep more'.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-06-27",
+    "day": 63,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "The Passive in All Tenses",
+    "grammar_title": "Passive: present, Perfekt, Präteritum, with modals",
+    "grammar_content": "FULL PASSIVE REFERENCE:\n\n```\nPRESENT: Das Haus wird gebaut. (is being built)\nPERFEKT: Das Haus ist gebaut worden. (has been built)\nPRÄTERITUM: Das Haus wurde gebaut. (was built)\nFUTURE: Das Haus wird gebaut werden. (will be built)\nMODAL: Das Haus muss gebaut werden. (must be built)\n       Das Haus kann gebaut werden. (can be built)\n\nKEY: 'worden' (not 'geworden'!) in Perfekt passive:\nist gebaut worden ✅  NOT: ist gebaut geworden ❌\n```",
+    "vocabulary": [
+      [
+        "wird gebaut",
+        "is being built"
+      ],
+      [
+        "wurde gebaut",
+        "was built"
+      ],
+      [
+        "ist gebaut worden",
+        "has been built"
+      ],
+      [
+        "muss gebaut werden",
+        "must be built"
+      ],
+      [
+        "kann repariert werden",
+        "can be repaired"
+      ],
+      [
+        "darf benutzt werden",
+        "may be used"
+      ],
+      [
+        "die Bauarbeiten",
+        "construction work"
+      ],
+      [
+        "die Genehmigung",
+        "permit/approval"
+      ],
+      [
+        "abgeschlossen",
+        "completed"
+      ],
+      [
+        "voraussichtlich",
+        "expected/anticipated"
+      ]
+    ],
+    "exercises": [
+      "Present passive: Das Haus ___ gebaut. (werden)",
+      "Perfekt passive: Das Haus ___ gebaut ___. (sein + worden)",
+      "Präteritum passive: Das Haus ___ gebaut. (wurde)",
+      "What is the special form of 'werden' in Perfekt passive?"
+    ],
+    "tip": "💡 The passive is EVERYWHERE in German news and formal writing. 'Es wird erwartet, dass...' = 'It is expected that...'",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-06-28",
+    "day": 64,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Relative Clauses in All Cases",
+    "grammar_title": "Relative pronouns — nominative, accusative, dative, genitive",
+    "grammar_content": "COMPLETE RELATIVE PRONOUN TABLE:\n\n```\n          MASC    FEM     NEUT    PLURAL\nNOM:      der     die     das     die\nACC:      den     die     das     die\nDAT:      dem     der     dem     denen ← NOTICE!\nGEN:      dessen  deren   dessen  deren\n\nEXAMPLES:\nNOM: der Mann, der dort steht\nACC: der Mann, den ich sehe\nDAT: der Mann, dem ich helfe\nGEN: der Mann, dessen Auto kaputt ist\n```\n\n📌 'denen' (dative plural) and 'dessen/deren' (genitive) are the tricky ones!",
+    "vocabulary": [
+      [
+        "der (Relativ)",
+        "who/that (nom m)"
+      ],
+      [
+        "den",
+        "whom (acc m)"
+      ],
+      [
+        "dem",
+        "to whom (dat m/n)"
+      ],
+      [
+        "dessen",
+        "whose (gen m/n)"
+      ],
+      [
+        "deren",
+        "whose (gen f/pl)"
+      ],
+      [
+        "denen",
+        "to whom (dat pl)"
+      ],
+      [
+        "das Gepäck",
+        "luggage"
+      ],
+      [
+        "der Fahrgast",
+        "passenger"
+      ],
+      [
+        "derjenige",
+        "the one who"
+      ],
+      [
+        "betreffen",
+        "to concern/affect"
+      ]
+    ],
+    "exercises": [
+      "Relativ (dat masc): der Mann, mit ___ ich spreche",
+      "Relativ (gen masc): der Mann, ___ Auto kaputt ist",
+      "Relativ (dat plural): die Leute, mit ___ ich arbeite",
+      "What's special about 'denen'?"
+    ],
+    "tip": "💡 'Dessen' and 'deren' = 'whose'. They're high-level markers. Using them correctly instantly signals B1+ German.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-06-29",
+    "day": 65,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "The Past Before the Past: Plusquamperfekt",
+    "grammar_title": "Plusquamperfekt — had done (past perfect)",
+    "grammar_content": "Use Plusquamperfekt for an event BEFORE another past event:\n\n```\nFORMULA: hatte/war (Präteritum) + Partizip II\n\nNachdem ich gegessen hatte, ging ich spazieren.\n(After I had eaten, I went for a walk.)\n\nAls er ankam, war der Zug schon abgefahren.\n(When he arrived, the train had already left.)\n\nKEY WORDS that trigger Plusquamperfekt:\nnachdem, bevor (with past), als (with sequence)\n```\n\n📌 Plusquamperfekt = 'had done'. Always paired with Präteritum or Perfekt for the later action.",
+    "vocabulary": [
+      [
+        "hatte gegessen",
+        "had eaten"
+      ],
+      [
+        "war angekommen",
+        "had arrived"
+      ],
+      [
+        "hatte gelernt",
+        "had studied"
+      ],
+      [
+        "war gefahren",
+        "had traveled"
+      ],
+      [
+        "nachdem",
+        "after (+ PQP)"
+      ],
+      [
+        "bevor",
+        "before"
+      ],
+      [
+        "bereits",
+        "already"
+      ],
+      [
+        "vorher",
+        "beforehand"
+      ],
+      [
+        "inzwischen",
+        "in the meantime"
+      ],
+      [
+        "die Reihenfolge",
+        "sequence/order"
+      ]
+    ],
+    "exercises": [
+      "PQP: Nachdem ich ___ ___ (essen), ging ich. (hatte + gegessen)",
+      "PQP: Als ich ankam, ___ der Bus schon ___ (abfahren — war + abgefahren)",
+      "When do you use Plusquamperfekt?",
+      "What word often triggers PQP?"
+    ],
+    "tip": "💡 In everyday speech, Germans often skip Plusquamperfekt and just use Perfekt with time words. But for B1 exams and writing, you need it!",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-06-30",
+    "day": 66,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Time Connectors: nachdem, bevor, während, seitdem",
+    "grammar_title": "Complex temporal clauses with different tenses",
+    "grammar_content": "Master these time connectors:\n\n```\nnachdem (after) + Plusquamperfekt → Präteritum/Perfekt\n  Nachdem ich gegessen hatte, ging ich aus.\n\nbevor (before) + Present/Präteritum\n  Bevor ich gehe, rufe ich dich an.\n  Bevor ich ging, hatte ich alles vorbereitet.\n\nwährend (while/during) — simultaneous actions\n  Während ich koche, höre ich Musik.\n\nseitdem (since) — point in time onwards\n  Seitdem ich in Berlin wohne, bin ich glücklicher.\n\nbis (until)\n  Ich warte, bis du kommst.\n```",
+    "vocabulary": [
+      [
+        "nachdem",
+        "after"
+      ],
+      [
+        "bevor",
+        "before"
+      ],
+      [
+        "während",
+        "while/during"
+      ],
+      [
+        "seitdem",
+        "since (time)"
+      ],
+      [
+        "bis",
+        "until"
+      ],
+      [
+        "sobald",
+        "as soon as"
+      ],
+      [
+        "solange",
+        "as long as"
+      ],
+      [
+        "seit",
+        "since/for (time)"
+      ],
+      [
+        "gleichzeitig",
+        "simultaneously"
+      ],
+      [
+        "die Reihenfolge",
+        "order/sequence"
+      ]
+    ],
+    "exercises": [
+      "Fill: ___ ich gegessen hatte, ging ich. (nachdem)",
+      "Fill: ___ ich gehe, schließe ich die Tür. (bevor)",
+      "Fill: ___ er kocht, hört er Musik. (während)",
+      "What tense follows 'nachdem'?"
+    ],
+    "tip": "💡 'Nachdem' + Plusquamperfekt is a B1 grammar requirement. It shows you can sequence complex past events.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-01",
+    "day": 67,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "In Order To: um...zu, ohne...zu, statt...zu",
+    "grammar_title": "Infinitive constructions with um/ohne/statt + zu",
+    "grammar_content": "These constructions add PURPOSE, ABSENCE, or ALTERNATIVE:\n\n```\num...zu = in order to\n  Ich lerne Deutsch, um in Berlin zu arbeiten.\n  (I learn German in order to work in Berlin.)\n\nohne...zu = without (doing)\n  Er ging, ohne sich zu verabschieden.\n  (He left without saying goodbye.)\n\nstatt...zu = instead of (doing)\n  Statt zu lernen, sah er fern.\n  (Instead of studying, he watched TV.)\n```\n\n📌 Subject must be the SAME in both clauses! If different, use 'damit' or 'ohne dass'.",
+    "vocabulary": [
+      [
+        "um...zu",
+        "in order to"
+      ],
+      [
+        "ohne...zu",
+        "without ...ing"
+      ],
+      [
+        "statt...zu",
+        "instead of ...ing"
+      ],
+      [
+        "der Zweck",
+        "purpose"
+      ],
+      [
+        "sich verabschieden",
+        "to say goodbye"
+      ],
+      [
+        "der Abschied",
+        "farewell"
+      ],
+      [
+        "die Absicht",
+        "intention"
+      ],
+      [
+        "absichtlich",
+        "intentionally"
+      ],
+      [
+        "versehentlich",
+        "accidentally"
+      ],
+      [
+        "der Grund",
+        "reason"
+      ]
+    ],
+    "exercises": [
+      "um...zu: Ich lerne, ___ die Prüfung ___ bestehen.",
+      "ohne...zu: Er ging, ___ ein Wort ___ sagen.",
+      "statt...zu: ___ fernzusehen, lernte er.",
+      "What's the rule about subjects in um/ohne/statt constructions?"
+    ],
+    "tip": "💡 'um...zu' is used all the time. 'Wozu lernst du?' — 'Um bessere Noten zu bekommen.' Master this and you'll sound much more natural.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-02",
+    "day": 68,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Verb-Preposition Master List",
+    "grammar_title": "The 20 most important verb-preposition pairs",
+    "grammar_content": "These determine your case choice. LEARN THEM:\n\n```\n+ AKKUSATIV:\nwarten auf    denken an      sich freuen auf/über\nbitten um     sorgen für     verzichten auf\nhoffen auf    achten auf     reagieren auf\n\n+ DATIVE:\nAngst haben vor     träumen von      leiden an\nsich kümmern um     gehören zu       sich erinnern an\nteilnehmen an       sich beschweren über\nabhängen von        sich verabreden mit\n```\n\n📌 Each pair is a UNIT. Learn 'warten auf + Akk' as one vocabulary item.",
+    "vocabulary": [
+      [
+        "warten auf + Akk",
+        "wait for"
+      ],
+      [
+        "denken an + Akk",
+        "think of"
+      ],
+      [
+        "bitten um + Akk",
+        "ask for"
+      ],
+      [
+        "Angst haben vor + Dat",
+        "be afraid of"
+      ],
+      [
+        "träumen von + Dat",
+        "dream of"
+      ],
+      [
+        "leiden an + Dat",
+        "suffer from"
+      ],
+      [
+        "teilnehmen an + Dat",
+        "participate in"
+      ],
+      [
+        "sich kümmern um + Akk",
+        "take care of"
+      ],
+      [
+        "sich beschweren über + Akk",
+        "complain about"
+      ],
+      [
+        "abhängen von + Dat",
+        "depend on"
+      ]
+    ],
+    "exercises": [
+      "Fill: Ich warte ___ d___ Bus. (auf + Akk)",
+      "Fill: Er träumt ___ ein___ Reise. (von + Dat)",
+      "Fill: Sie kümmert sich ___ d___ Kinder. (um + Akk)",
+      "What case does 'denken an' take?"
+    ],
+    "tip": "💡 When these appear in questions, the preposition becomes a 'wo-' compound: 'Worauf wartest du?' = 'What are you waiting for?'",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-03",
+    "day": 69,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Da- and Wo- Compounds",
+    "grammar_title": "damit, davon, womit, worüber — the pronoun replacements",
+    "grammar_content": "When referring to things (not people), use da-/wo- compounds:\n\n```\nPREPOSITION → DA-COMPOUND (statement) / WO-COMPOUND (question)\n\nmit  →  damit (with it)          Womit schreibst du? (What are you writing with?)\nvon  →  davon (of/from it)       Wovon träumst du? (What do you dream of?)\nan   →  daran (on/to it)         Woran denkst du? (What are you thinking of?)\nauf  →  darauf (on it)           Worauf wartest du? (What are you waiting for?)\nfür  →  dafür (for it)           Wofür interessierst du dich?\nbei  →  dabei (with it/there)    Wobei kann ich helfen?\n\nRULE: da(r)- for statements, wo(r)- for questions. Add 'r' if preposition starts with vowel.\n```",
+    "vocabulary": [
+      [
+        "damit",
+        "with it"
+      ],
+      [
+        "davon",
+        "of/from it"
+      ],
+      [
+        "daran",
+        "on/about it"
+      ],
+      [
+        "darauf",
+        "on it"
+      ],
+      [
+        "dafür",
+        "for it"
+      ],
+      [
+        "dabei",
+        "with it/there"
+      ],
+      [
+        "darüber",
+        "about it"
+      ],
+      [
+        "davor",
+        "in front of/before it"
+      ],
+      [
+        "danach",
+        "after it"
+      ],
+      [
+        "darum",
+        "that's why"
+      ]
+    ],
+    "exercises": [
+      "Question: ___ wartest du? (auf → worauf)",
+      "Statement: Ich freue mich ___. (auf → darauf)",
+      "Question: ___ denkst du? (an → woran)",
+      "When do you add 'r' in da-/wo- compounds?"
+    ],
+    "tip": "💡 Da-/wo- compounds refer to THINGS, not people. For people, use preposition + pronoun: 'Ich warte auf IHN' not 'Ich warte darauf'.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-04",
+    "day": 70,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Nominalization: Verbs Become Nouns",
+    "grammar_title": "Turning verbs and adjectives into nouns",
+    "grammar_content": "German LOVES turning actions into nouns. This is key for B1 writing:\n\n```\nVERB → NOUN (das + capitalized infinitive):\nlesen → das Lesen (reading)\nschwimmen → das Schwimmen (swimming)\nlernen → das Lernen (learning/studying)\n\nADJECTIVE → NOUN (-heit/-keit/-ung):\nfrei → die Freiheit (freedom)\nmöglich → die Möglichkeit (possibility)\nentscheiden → die Entscheidung (decision)\nrechnen → die Rechnung (bill/invoice)\n```\n\n📌 Nominalization makes writing more formal and academic. B1 exams reward it!",
+    "vocabulary": [
+      [
+        "das Lesen",
+        "reading"
+      ],
+      [
+        "das Lernen",
+        "learning"
+      ],
+      [
+        "die Freiheit",
+        "freedom"
+      ],
+      [
+        "die Möglichkeit",
+        "possibility"
+      ],
+      [
+        "die Entscheidung",
+        "decision"
+      ],
+      [
+        "die Erfahrung",
+        "experience"
+      ],
+      [
+        "die Bedeutung",
+        "meaning/importance"
+      ],
+      [
+        "die Entwicklung",
+        "development"
+      ],
+      [
+        "die Erwartung",
+        "expectation"
+      ],
+      [
+        "die Vorstellung",
+        "imagination/idea"
+      ]
+    ],
+    "exercises": [
+      "Nominalize: schwimmen → das ___",
+      "Nominalize: wichtig → die ___",
+      "Nominalize: erklären → die ___",
+      "Why is nominalization important for B1?"
+    ],
+    "tip": "💡 German academic and business writing SOUNDS different because of nominalization. 'Bei der Entscheidungsfindung' instead of 'wenn man entscheidet'.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-05",
+    "day": 71,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Nomen-Verb-Verbindungen (Light Verb Constructions)",
+    "grammar_title": "Fixed noun-verb combinations that replace simple verbs",
+    "grammar_content": "These sound more sophisticated than simple verbs:\n\n```\nSIMPLE VERB        →  NOMEN-VERB-VERBINDUNG\nhelfen             →  Hilfe leisten (to provide help)\nantworten          →  Antwort geben (to give an answer)\nfragen             →  eine Frage stellen (to ask a question)\nentscheiden        →  eine Entscheidung treffen\nvorbereiten        →  Vorbereitungen treffen\nkritisieren        →  Kritik üben an\nbeeinflussen       →  Einfluss nehmen auf\nbeenden            →  ein Ende finden / zu Ende bringen\n```\n\n📌 These are FORMAL. Use them in writing and presentations, not casual chat.",
+    "vocabulary": [
+      [
+        "Hilfe leisten",
+        "to provide help"
+      ],
+      [
+        "eine Frage stellen",
+        "to ask a question"
+      ],
+      [
+        "eine Entscheidung treffen",
+        "to make a decision"
+      ],
+      [
+        "Kritik üben",
+        "to criticize"
+      ],
+      [
+        "Einfluss nehmen",
+        "to influence"
+      ],
+      [
+        "in Anspruch nehmen",
+        "to claim/use"
+      ],
+      [
+        "zur Verfügung stehen",
+        "to be available"
+      ],
+      [
+        "zum Ausdruck bringen",
+        "to express"
+      ],
+      [
+        "in Betracht ziehen",
+        "to consider"
+      ],
+      [
+        "zur Kenntnis nehmen",
+        "to take note of"
+      ]
+    ],
+    "exercises": [
+      "NVV: helfen → Hilfe ___",
+      "NVV: fragen → eine Frage ___",
+      "NVV: entscheiden → eine Entscheidung ___",
+      "When are NVVs appropriate?"
+    ],
+    "tip": "💡 Use Nomen-Verb-Verbindungen in B1 writing tasks to show formal register. But in speaking, simple verbs are more natural.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-06",
+    "day": 72,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Complex Connectors for Argumentation",
+    "grammar_title": "Advanced connectors: je...desto, insofern, folglich, demnach",
+    "grammar_content": "B1 writing requires sophisticated connectors:\n\n```\nCAUSE → EFFECT:\nfolglich, demnach, infolgedessen = consequently\nsomit, daher = thus/therefore\n\nCONCESSION:\nzwar...aber = it's true that...but\nallerdings = however (mid-sentence)\ndennoch = nonetheless\n\nADDITION/EMPHASIS:\ndarüber hinaus = furthermore\ngeschweige denn = let alone\ninsbesondere = particularly\n\nCOMPARISON:\nje...desto/umso = the more...the more\nim Vergleich zu = compared to\n```",
+    "vocabulary": [
+      [
+        "folglich",
+        "consequently"
+      ],
+      [
+        "somit",
+        "thus"
+      ],
+      [
+        "allerdings",
+        "however"
+      ],
+      [
+        "dennoch",
+        "nonetheless"
+      ],
+      [
+        "darüber hinaus",
+        "furthermore"
+      ],
+      [
+        "insbesondere",
+        "particularly"
+      ],
+      [
+        "im Vergleich zu",
+        "compared to"
+      ],
+      [
+        "geschweige denn",
+        "let alone"
+      ],
+      [
+        "insofern",
+        "insofar as"
+      ],
+      [
+        "demnach",
+        "accordingly"
+      ]
+    ],
+    "exercises": [
+      "Fill: ___ mehr ich lerne, ___ besser. (je...desto)",
+      "Fill: Es regnet. ___ gehe ich spazieren. (dennoch)",
+      "Fill: Ich mag Kaffee, ___ mag ich Tee lieber. (allerdings)",
+      "Name 3 B1-level connectors and their meanings."
+    ],
+    "tip": "💡 Connectors are the #1 way to boost your B1 writing score. Use 3-4 of these in every writing task.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-07",
+    "day": 73,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Reported Speech: Konjunktiv I",
+    "grammar_title": "Indirekte Rede — reporting what others said",
+    "grammar_content": "German has a special form for reported speech (news, formal writing):\n\n```\nDIRECT: Er sagt: 'Ich bin krank.'\nREPORTED: Er sagt, er sei krank. (he is sick)\n          Er sagt, dass er krank sei.\n\nKONJUNKTIV I FORMS:\nsein: ich sei, du seist, er sei, wir seien, ihr seiet, sie seien\nhaben: ich habe → habe (often unchanged), er habe\nkönnen: er könne (he can — reportedly)\nmüssen: er müsse (he must — reportedly)\n```\n\n📌 Konjunktiv I = 'reportedly' or 'allegedly'. The journalist's best friend!",
+    "vocabulary": [
+      [
+        "sei",
+        "is (reportedly)"
+      ],
+      [
+        "habe",
+        "has (reportedly)"
+      ],
+      [
+        "könne",
+        "can (reportedly)"
+      ],
+      [
+        "müsse",
+        "must (reportedly)"
+      ],
+      [
+        "wolle",
+        "wants to (reportedly)"
+      ],
+      [
+        "angeblich",
+        "allegedly"
+      ],
+      [
+        "laut",
+        "according to"
+      ],
+      [
+        "die Quelle",
+        "source"
+      ],
+      [
+        "berichten",
+        "to report"
+      ],
+      [
+        "behaupten",
+        "to claim"
+      ]
+    ],
+    "exercises": [
+      "Report: Er sagt, er ___ krank. (sei — Konjunktiv I)",
+      "Report: Sie sagt, sie ___ keine Zeit. (habe — Konjunktiv I)",
+      "What is Konjunktiv I used for?",
+      "How do you translate 'reportedly/allegedly' in this context?"
+    ],
+    "tip": "💡 Konjunktiv I is mainly for NEWS and FORMAL writing. In conversation, just use normal indicative or 'würde'. Don't overuse it in speaking!",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-08",
+    "day": 74,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Participles as Adjectives",
+    "grammar_title": "Partizip I (-end) and Partizip II as adjectives",
+    "grammar_content": "Participles make your descriptions richer:\n\n```\nPARTIZIP I (-end) = ongoing action:\nspielend → das spielende Kind (the playing child)\nsingend → die singende Frau (the singing woman)\nwachsend → die wachsende Wirtschaft (the growing economy)\n\nPARTIZIP II = completed/result:\ngeschrieben → der geschriebene Brief (the written letter)\ngekocht → das gekochte Ei (the boiled egg)\nverloren → der verlorene Schlüssel (the lost key)\n```\n\n📌 Participles used as adjectives TAKE ADJECTIVE ENDINGS!",
+    "vocabulary": [
+      [
+        "spielend",
+        "playing"
+      ],
+      [
+        "singend",
+        "singing"
+      ],
+      [
+        "geschrieben",
+        "written"
+      ],
+      [
+        "gekocht",
+        "cooked/boiled"
+      ],
+      [
+        "verloren",
+        "lost"
+      ],
+      [
+        "entscheidend",
+        "decisive"
+      ],
+      [
+        "überraschend",
+        "surprising"
+      ],
+      [
+        "bedeutend",
+        "significant"
+      ],
+      [
+        "passend",
+        "suitable/fitting"
+      ],
+      [
+        "führend",
+        "leading"
+      ]
+    ],
+    "exercises": [
+      "Part I: d__ spielend___ Kind (das → suffix?)",
+      "Part II: d__ geschrieben___ Brief (der → suffix?)",
+      "What does Partizip I (-end) express?",
+      "What does Partizip II as adjective express?"
+    ],
+    "tip": "💡 'Das kochende Wasser' = the water that IS boiling (ongoing). 'Das gekochte Wasser' = the water that HAS BEEN boiled (completed).",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-09",
+    "day": 75,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Complete Adjective Ending Tables",
+    "grammar_title": "All 3 tables side-by-side: definite, indefinite, no article",
+    "grammar_content": "ADJECTIVE ENDING MASTER TABLE — save forever:\n\n```\nAFTER DER-WORDS (der, dieser, welcher, jeder...):\n       M     F     N    Pl\nNOM:  -e    -e    -e    -en\nACC:  -en   -e    -e    -en\nDAT:  -en   -en   -en   -en\nGEN:  -en   -en   -en   -en\n\nAFTER EIN-WORDS (ein, kein, mein, dein...):\nNOM:  -er   -e    -es   -en\nACC:  -en   -e    -es   -en\nDAT:  -en   -en   -en   -en\nGEN:  -en   -en   -en   -en\n\nNO ARTICLE:\nNOM:  -er   -e    -es   -e\nACC:  -en   -e    -es   -e\nDAT:  -em   -er   -em   -en\nGEN:  -en   -er   -en   -er\n```",
+    "vocabulary": [
+      [
+        "derselbe",
+        "the same"
+      ],
+      [
+        "derselbe Fehler",
+        "the same mistake"
+      ],
+      [
+        "jeder Mensch",
+        "every person"
+      ],
+      [
+        "welches Buch?",
+        "which book?"
+      ],
+      [
+        "manche Leute",
+        "some people"
+      ],
+      [
+        "solche Probleme",
+        "such problems"
+      ],
+      [
+        "folgende Punkte",
+        "the following points"
+      ],
+      [
+        "sämtliche",
+        "all (formal)"
+      ],
+      [
+        "irgendein",
+        "some/any"
+      ],
+      [
+        "derselbe",
+        "the same"
+      ]
+    ],
+    "exercises": [
+      "After 'dieser' (nom masc): dies___ gut___ Wein",
+      "After 'mein' (acc masc): mein___ gut___ Freund",
+      "No article (dat fem): mit frisch___ Milch",
+      "No article (gen masc): die Farbe gut___ Weines"
+    ],
+    "tip": "💡 By B1, adjective endings should be automatic. The pattern: most endings are -en. Only a few spots use -e, -er, -es, -em.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-10",
+    "day": 76,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Alternatives to Passive",
+    "grammar_title": "man, sich lassen, -bar, sein + zu",
+    "grammar_content": "German has several ways to avoid 'real' passive:\n\n```\n1. 'man' (impersonal 'one/you'):\n   Man spricht hier Deutsch. (German is spoken here.)\n\n2. 'sich lassen' + infinitive:\n   Das lässt sich machen. (That can be done.)\n   Das Problem lässt sich lösen. (The problem can be solved.)\n\n3. -bar (adjective suffix = '-able'):\n   essbar (edible), machbar (doable), denkbar (conceivable)\n\n4. 'sein + zu + infinitive':\n   Das ist noch zu klären. (That remains to be clarified.)\n   Die Aufgabe ist bis morgen zu erledigen.\n```",
+    "vocabulary": [
+      [
+        "man",
+        "one/you/people"
+      ],
+      [
+        "sich lassen",
+        "can be (done)"
+      ],
+      [
+        "-bar",
+        "-able"
+      ],
+      [
+        "essbar",
+        "edible"
+      ],
+      [
+        "machbar",
+        "doable/feasible"
+      ],
+      [
+        "denkbar",
+        "conceivable"
+      ],
+      [
+        "lösbar",
+        "solvable"
+      ],
+      [
+        "zu erledigen",
+        "to be done/completed"
+      ],
+      [
+        "zu klären",
+        "to be clarified"
+      ],
+      [
+        "unmöglich",
+        "impossible"
+      ]
+    ],
+    "exercises": [
+      "Rewrite without passive: Hier wird Deutsch gesprochen. → ___ spricht...",
+      "Rewrite: Das Problem kann gelöst werden. → Das Problem lässt ___ ___.",
+      "Add -bar: Das kann man essen. → Das ist ___.",
+      "What are 4 ways to avoid passive in German?"
+    ],
+    "tip": "💡 Native speakers use these alternatives MORE than the real passive in everyday speech. 'Man' is the most common — learn to love it!",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-11",
+    "day": 77,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Polite Speech & Register",
+    "grammar_title": "Formal vs informal register for B1 situations",
+    "grammar_content": "B1 requires switching between registers:\n\n```\nINFORMAL (Freunde/Familie):\n- Du, imperative without 'bitte': Komm her!\n- Short sentences, contractions: 'n', 'mal', 'grad'\n- Modal particles: doch, mal, ja, eben, halt\n\nFORMAL (Arbeit/Behörden):\n- Sie, Konjunktiv II: Könnten Sie bitte...?\n- Full sentences, no contractions\n- Passives: Es wird gebeten, ...\n- Nominalizations: Wir bitten um Zusendung...\n\nSEMI-FORMAL (Kollegen):\n- Sie but with modal particles: Könnten Sie mal...?\n```",
+    "vocabulary": [
+      [
+        "Könnten Sie bitte...?",
+        "Could you please...?"
+      ],
+      [
+        "Würden Sie so freundlich sein...?",
+        "Would you be so kind...?"
+      ],
+      [
+        "ich würde vorschlagen",
+        "I would suggest"
+      ],
+      [
+        "Darf ich...?",
+        "May I...?"
+      ],
+      [
+        "Gestatten Sie...?",
+        "Allow me...? (very formal)"
+      ],
+      [
+        "Es wäre schön, wenn...",
+        "It would be nice if..."
+      ],
+      [
+        "leider",
+        "unfortunately"
+      ],
+      [
+        "vielen Dank im Voraus",
+        "thank you in advance"
+      ],
+      [
+        "mit freundlichen Grüßen",
+        "kind regards"
+      ]
+    ],
+    "exercises": [
+      "Make formal: Kannst du helfen? → ___ Sie bitte ___?",
+      "Make formal: Gib mir das Buch. → ___ Sie mir bitte das Buch ___?",
+      "What register for: boss, doctor, government office?",
+      "What are 'Modalpartikeln' and when do you use them?"
+    ],
+    "tip": "💡 Modal particles (doch, mal, ja, eben) are the secret to natural-sounding German. 'Komm mal her' sounds friendly. 'Komm her' sounds like a command.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-12",
+    "day": 78,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Advanced Word Order",
+    "grammar_title": "Emphasis, fronting, Nachfeld — playing with word position",
+    "grammar_content": "B1 word order allows more flexibility for emphasis:\n\n```\nFRONTING (anything can go in position 1 for emphasis):\nNormal: Ich gehe morgen ins Kino.\nFronted: Morgen gehe ich ins Kino.\nFronted: Ins Kino gehe ich morgen.\n\nNACHFELD (moving elements AFTER the verb):\nIch habe ihn gesehen, deinen Bruder.\n(I saw him, your brother.)\n\nAUSKLAMMERUNG (after comparisons):\nIch bin größer als du.\nIch habe mehr gelernt als erwartet.\n```",
+    "vocabulary": [
+      [
+        "die Betonung",
+        "emphasis"
+      ],
+      [
+        "hervorheben",
+        "to highlight"
+      ],
+      [
+        "das Nachfeld",
+        "post-field (after verb)"
+      ],
+      [
+        "ausklammern",
+        "to bracket out"
+      ],
+      [
+        "zwar",
+        "admittedly"
+      ],
+      [
+        "nämlich",
+        "namely/because"
+      ],
+      [
+        "allerdings",
+        "however"
+      ],
+      [
+        "besonders",
+        "especially"
+      ],
+      [
+        "vor allem",
+        "above all"
+      ],
+      [
+        "im Gegenteil",
+        "on the contrary"
+      ]
+    ],
+    "exercises": [
+      "Front 'heute': Ich ___ heute müde. → Heute ___ ich müde.",
+      "Front 'ins Kino': Ich gehe ins Kino. → ___ ___ ich.",
+      "What is 'Nachfeld'?",
+      "Why would you change word order from the basic pattern?"
+    ],
+    "tip": "💡 Fronting for emphasis is a hallmark of B1+ German. 'Das weiß ich nicht' (THAT I don't know) instead of 'Ich weiß das nicht'. Natural rhythm.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-13",
+    "day": 79,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Genitive Prepositions",
+    "grammar_title": "während, trotz, wegen, innerhalb, außerhalb",
+    "grammar_content": "These prepositions take genitive (in standard German):\n\n```\nwährend + Gen = during\n  Während des Unterrichts... (During the lesson...)\n  → BUT: während dem Unterricht (dative, common in speech)\n\ntrotz + Gen (formal) / + Dat (colloquial) = despite\n  Trotz des Regens... / Trotz dem Regen...\n\nwegen + Gen (formal) / + Dat (colloquial) = because of\n  Wegen des Wetters... / Wegen dem Wetter...\n\ninnerhalb + Gen = within\n  Innerhalb einer Woche (Within a week)\n\naußerhalb + Gen = outside of\n  Außerhalb der Stadt (Outside the city)\n```\n\n📌 Spoken German uses dative after these. Written/exam German requires genitive!",
+    "vocabulary": [
+      [
+        "während",
+        "during (+gen)"
+      ],
+      [
+        "trotz",
+        "despite (+gen)"
+      ],
+      [
+        "wegen",
+        "because of (+gen)"
+      ],
+      [
+        "innerhalb",
+        "within (+gen)"
+      ],
+      [
+        "außerhalb",
+        "outside (+gen)"
+      ],
+      [
+        "statt",
+        "instead of (+gen)"
+      ],
+      [
+        "mithilfe",
+        "with the help of (+gen)"
+      ],
+      [
+        "bezüglich",
+        "regarding (+gen)"
+      ],
+      [
+        "hinsichtlich",
+        "regarding (+gen)"
+      ],
+      [
+        "infolge",
+        "as a result of (+gen)"
+      ]
+    ],
+    "exercises": [
+      "Fill: ___ des Regens blieb ich zu Hause. (wegen/trotz?)",
+      "Fill: ___ der Woche habe ich viel gelernt. (innerhalb/während)",
+      "Genitive or dative: trotz ___ Wetter(s) (formal)?",
+      "What's the colloquial form of 'wegen des Regens'?"
+    ],
+    "tip": "💡 For B1 exams: use genitive! 'Wegen des schlechten Wetters' not 'Wegen dem schlechten Wetter'. For speaking: dative is fine.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-14",
+    "day": 80,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Writing Opinions: Argument Structure",
+    "grammar_title": "How to structure a B1 opinion essay",
+    "grammar_content": "B1 Schreiben (writing) requires clear argumentation:\n\n```\nSTRUCTURE:\n1. EINLEITUNG (introduction):\n   Das Thema X wird heute viel diskutiert.\n\n2. PRO-ARGUMENTE (for):\n   Einerseits / Ein Vorteil ist, dass...\n   Darüber hinaus / Außerdem...\n\n3. CONTRA-ARGUMENTE (against):\n   Andererseits / Ein Nachteil ist jedoch...\n   Dagegen spricht, dass...\n\n4. EIGENE MEINUNG (your opinion):\n   Meiner Meinung nach / Ich bin der Ansicht, dass...\n\n5. SCHLUSS (conclusion):\n   Zusammenfassend / Abschließend lässt sich sagen...\n```",
+    "vocabulary": [
+      [
+        "meiner Meinung nach",
+        "in my opinion"
+      ],
+      [
+        "einerseits",
+        "on one hand"
+      ],
+      [
+        "andererseits",
+        "on the other hand"
+      ],
+      [
+        "darüber hinaus",
+        "furthermore"
+      ],
+      [
+        "zusammenfassend",
+        "in summary"
+      ],
+      [
+        "der Vorteil",
+        "advantage"
+      ],
+      [
+        "der Nachteil",
+        "disadvantage"
+      ],
+      [
+        "diskutieren",
+        "to discuss"
+      ],
+      [
+        "die Ansicht",
+        "view/opinion"
+      ],
+      [
+        "abschließend",
+        "in conclusion"
+      ]
+    ],
+    "exercises": [
+      "What are the 5 parts of a B1 opinion essay?",
+      "Give 2 connectors for presenting an opposing view.",
+      "Give 2 ways to say 'in my opinion'.",
+      "What phrase introduces the conclusion?"
+    ],
+    "tip": "💡 For B1 writing tasks, always use this 5-part structure. Examiners look for it. Even if your German isn't perfect, good structure gets points!",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-15",
+    "day": 81,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Complex Sentences: Combining Everything",
+    "grammar_title": "Putting it all together — mixing tenses, moods, clauses",
+    "grammar_content": "By B1, you should combine structures naturally:\n\n```\nMIX IT UP:\nObwohl ich viel gelernt hatte, (Plusquamperfekt)\nweil ich die Prüfung bestehen wollte, (Modal + weil)\nwar ich trotzdem nervös, (trotzdem)\nwas wahrscheinlich daran lag, (wo-compound)\ndass ich zu wenig geschlafen hatte. (Plusquamperfekt)\n\nEvery B1 sentence should contain at least ONE subordinate clause.\nEvery B1 paragraph should mix: weil, dass, wenn, Relativsatz, um...zu.\n```",
+    "vocabulary": [
+      [
+        "obwohl",
+        "although"
+      ],
+      [
+        "trotzdem",
+        "nevertheless"
+      ],
+      [
+        "daran liegen, dass",
+        "be due to the fact that"
+      ],
+      [
+        "wahrscheinlich",
+        "probably"
+      ],
+      [
+        "vermutlich",
+        "presumably"
+      ],
+      [
+        "möglicherweise",
+        "possibly"
+      ],
+      [
+        "die Ursache",
+        "cause"
+      ],
+      [
+        "die Folge",
+        "consequence"
+      ],
+      [
+        "der Zusammenhang",
+        "connection"
+      ],
+      [
+        "anspruchsvoll",
+        "demanding/challenging"
+      ]
+    ],
+    "exercises": [
+      "Combine: Ich habe viel gelernt. Ich war nervös. → Obwohl ___",
+      "Add a relative clause: Der Test, ___, war schwer.",
+      "Add a 'weil' clause: Ich war müde, weil ___",
+      "What makes a sentence 'B1 level' vs 'A2 level'?"
+    ],
+    "tip": "💡 The difference between A2 and B1 is DEPTH. A2 = one clause. B1 = two or three clauses linked together with appropriate connectors.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-16",
+    "day": 82,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Text Coherence & Flow",
+    "grammar_title": "Making your writing flow with transitions",
+    "grammar_content": "Coherent writing uses transition words to guide the reader:\n\n```\nADDING: zudem, außerdem, ferner, hinzu kommt\nCONTRASTING: hingegen, dagegen, im Gegensatz dazu\nEXEMPLIFYING: beispielsweise, zum Beispiel, so\nEXPLAINING: das heißt (d.h.), nämlich, und zwar\nCONCLUDING: schließlich, letztendlich, im Endeffekt\nSEQUENCING: zunächst, daraufhin, anschließend\nEMPHASIZING: besonders, vor allem, insbesondere\n```\n\n📌 Use DIFFERENT transitions — don't repeat 'und dann... und dann...'",
+    "vocabulary": [
+      [
+        "zudem",
+        "moreover"
+      ],
+      [
+        "hingegen",
+        "in contrast"
+      ],
+      [
+        "beispielsweise",
+        "for example"
+      ],
+      [
+        "das heißt",
+        "that is (i.e.)"
+      ],
+      [
+        "letztendlich",
+        "ultimately"
+      ],
+      [
+        "zunächst",
+        "first of all"
+      ],
+      [
+        "anschließend",
+        "subsequently"
+      ],
+      [
+        "insbesondere",
+        "particularly"
+      ],
+      [
+        "nämlich",
+        "namely"
+      ],
+      [
+        "im Allgemeinen",
+        "in general"
+      ]
+    ],
+    "exercises": [
+      "Add a transition: Ich mag Kaffee. ___, trinke ich auch Tee. (moreover)",
+      "Add a contrast: Viele meinen... ___, bin ich der Ansicht... (in contrast)",
+      "Add a conclusion: ___, lässt sich sagen... (ultimately)",
+      "Why are transition words important for B1 writing?"
+    ],
+    "tip": "💡 Transition variety = higher score. Don't use 'und' 5 times. Mix in 'zudem', 'außerdem', 'darüber hinaus', 'ferner'.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-17",
+    "day": 83,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Formal vs Informal: Deep Dive",
+    "grammar_title": "Full comparison of registers with examples",
+    "grammar_content": "THE SAME MESSAGE in different registers:\n\n```\nINFORMAL (to a friend):\nHey, haste morgen Zeit? Wolln wir ins Kino?\n\nNEUTRAL (to a colleague):\nHallo, hast du morgen Zeit? Wollen wir ins Kino gehen?\n\nFORMAL (to your boss):\nSehr geehrter Herr Müller,\nhätten Sie morgen Zeit, gemeinsam ins Kino zu gehen?\nIch würde mich sehr freuen.\n\nVERY FORMAL (official letter):\nSehr geehrte Damen und Herren,\nhiermit möchte ich anfragen, ob...\nFür Ihre Bemühungen danke ich Ihnen im Voraus.\n```",
+    "vocabulary": [
+      [
+        "Sehr geehrte/r...",
+        "Dear... (formal letter)"
+      ],
+      [
+        "hiermit",
+        "hereby"
+      ],
+      [
+        "bezüglich",
+        "regarding"
+      ],
+      [
+        "betreffend",
+        "concerning"
+      ],
+      [
+        "ich wäre Ihnen dankbar",
+        "I would be grateful"
+      ],
+      [
+        "in Bezug auf",
+        "with reference to"
+      ],
+      [
+        "die Anrede",
+        "salutation"
+      ],
+      [
+        "der Gruß",
+        "greeting"
+      ],
+      [
+        "das Anliegen",
+        "concern/request"
+      ],
+      [
+        "entgegenkommen",
+        "to accommodate"
+      ]
+    ],
+    "exercises": [
+      "Informal to formal: Kannst du kommen? → ___ Sie bitte ___?",
+      "Identify register: 'Wolln wir?' — formal or informal?",
+      "Identify: 'Würden Sie bitte...?' — formal or informal?",
+      "What are the 4 register levels in German?"
+    ],
+    "tip": "💡 Register flexibility = social intelligence in German. Using 'du' with the wrong person can be offensive. Using 'Sie' with friends is weird.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-18",
+    "day": 84,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Essential B1 Idioms",
+    "grammar_title": "Fixed expressions that make you sound natural",
+    "grammar_content": "Master these B1-level idioms:\n\n```\nDas ist mir egal.              (I don't care.)\nDas macht nichts.              (It doesn't matter.)\nEs kommt darauf an.            (It depends.)\nDas ist die Mühe wert.         (It's worth the effort.)\nIch bin dafür/dagegen.         (I'm for/against it.)\nDas liegt auf der Hand.        (That's obvious.)\nEs geht um...                  (It's about...)\nIch halte das für...            (I consider that...)\nim Großen und Ganzen           (by and large)\nauf jeden Fall / auf keinen Fall (definitely / definitely not)\n```",
+    "vocabulary": [
+      [
+        "Das ist mir egal",
+        "I don't care"
+      ],
+      [
+        "Es kommt darauf an",
+        "It depends"
+      ],
+      [
+        "die Mühe wert",
+        "worth the effort"
+      ],
+      [
+        "dafür/dagegen",
+        "for/against it"
+      ],
+      [
+        "auf der Hand liegen",
+        "to be obvious"
+      ],
+      [
+        "es geht um",
+        "it's about"
+      ],
+      [
+        "halten für",
+        "to consider"
+      ],
+      [
+        "im Großen und Ganzen",
+        "by and large"
+      ],
+      [
+        "auf jeden Fall",
+        "definitely"
+      ],
+      [
+        "auf keinen Fall",
+        "definitely not"
+      ]
+    ],
+    "exercises": [
+      "What does 'Es kommt darauf an' mean?",
+      "What does 'Das ist mir egal' mean?",
+      "Translate: 'It's about the environment.'",
+      "Use 'halten für': I consider that important."
+    ],
+    "tip": "💡 These idioms are the difference between 'textbook German' and 'real German'. Sprinkle 2-3 into every conversation and you'll sound much more natural.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-19",
+    "day": 85,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Grammar Review: The Big Picture",
+    "grammar_title": "Zusammenfassung aller B1-Grammatikthemen",
+    "grammar_content": "QUICK-REFERENCE: Everything you've learned\n\n```\nTENSES: Präsens, Perfekt, Präteritum, Plusquamperfekt, Futur I\nCASES: Nominativ, Akkusativ, Dativ, Genitiv\nPREPOSITIONS: Akk-only, Dat-only, Wechsel, Genitive\nCLAUSES: Hauptsatz, Nebensatz (weil/dass/wenn/als/obwohl/nachdem/bevor/während)\nSPECIAL: Relativsätze, Infinitiv mit zu, um...zu, Passiv\nMOOD: Konjunktiv II (würde/hätte/wäre), Konjunktiv I\nADJECTIVES: all 3 tables, comparative, superlative\nCONNECTORS: coordinating, subordinating, adverbial\n```\n\n📌 If you can USE (not just recognize) all of these, you are B1+.",
+    "vocabulary": [
+      [
+        "die Übersicht",
+        "overview"
+      ],
+      [
+        "beherrschen",
+        "to master"
+      ],
+      [
+        "die Zusammenfassung",
+        "summary"
+      ],
+      [
+        "der Überblick",
+        "overview/big picture"
+      ],
+      [
+        "sicher im Gebrauch",
+        "confident in use"
+      ],
+      [
+        "fließend",
+        "fluent"
+      ],
+      [
+        "fortgeschritten",
+        "advanced"
+      ],
+      [
+        "die Grundlage",
+        "foundation/basis"
+      ],
+      [
+        "aufbauen auf",
+        "to build upon"
+      ],
+      [
+        "die Wiederholung",
+        "repetition/review"
+      ]
+    ],
+    "exercises": [
+      "Name all 5 tenses you can use at B1.",
+      "Name all 4 cases.",
+      "Name 5 types of subordinate clauses.",
+      "What's the difference between Konjunktiv I and II?"
+    ],
+    "tip": "💡 You don't need to be perfect at everything. B1 means you can COMMUNICATE on familiar topics, even with some errors.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-20",
+    "day": 86,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Mock: B1 Lesen (Reading)",
+    "grammar_title": "B1 reading practice — main idea, details, inference",
+    "grammar_content": "B1 LESEN TIPS:\n\n```\nSTRATEGY:\n1. Read the QUESTIONS first\n2. Scan text for keywords (not every word!)\n3. Don't panic about unknown words — use context\n4. 65 minutes for 5 texts — manage time!\n\nTEXT TYPES: ads, emails, news articles, forum posts, info brochures\n\nPRACTICE TODAY:\nRead one article on nachrichtenleicht.de (5 min)\nAnswer: What happened? Who? Where? Why?\nLook up max 5 unknown words (no more!)\n```",
+    "vocabulary": [
+      [
+        "der Leseverstehen",
+        "reading comprehension"
+      ],
+      [
+        "überfliegen",
+        "to skim"
+      ],
+      [
+        "genau lesen",
+        "to read carefully"
+      ],
+      [
+        "das Stichwort",
+        "keyword"
+      ],
+      [
+        "die Überschrift",
+        "headline"
+      ],
+      [
+        "der Absatz",
+        "paragraph"
+      ],
+      [
+        "die Quelle",
+        "source"
+      ],
+      [
+        "veröffentlichen",
+        "to publish"
+      ],
+      [
+        "die Zusammenfassung",
+        "summary"
+      ],
+      [
+        "der Inhalt",
+        "content"
+      ]
+    ],
+    "exercises": [
+      "What should you read FIRST in a B1 reading task?",
+      "How much time for B1 Lesen?",
+      "What's the strategy for unknown words?",
+      "Name 3 text types in B1 Lesen."
+    ],
+    "tip": "💡 The B1 reading test is about EFFICIENCY, not perfection. You don't need to understand every word — you need to find the answers.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-21",
+    "day": 87,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Mock: B1 Hören (Listening)",
+    "grammar_title": "B1 listening practice — gist, detail, selective listening",
+    "grammar_content": "B1 HÖREN TIPS:\n\n```\nSTRATEGY:\n1. Read questions BEFORE listening (you get time!)\n2. First listen: get the GIST (general meaning)\n3. Second listen: catch DETAILS for specific questions\n4. DON'T fixate on one word you missed — keep going!\n\nCONTENT: announcements, radio reports, conversations, interviews\n\nPRACTICE TODAY:\nWatch 3 min of Easy German (YouTube) WITHOUT subtitles\nThen re-watch WITH subtitles — what did you miss?\n```",
+    "vocabulary": [
+      [
+        "das Hörverstehen",
+        "listening comprehension"
+      ],
+      [
+        "die Durchsage",
+        "announcement"
+      ],
+      [
+        "der Bericht",
+        "report"
+      ],
+      [
+        "das Gespräch",
+        "conversation"
+      ],
+      [
+        "der Muttersprachler",
+        "native speaker"
+      ],
+      [
+        "die Aussprache",
+        "pronunciation"
+      ],
+      [
+        "deutlich",
+        "clear"
+      ],
+      [
+        "der Akzent",
+        "accent"
+      ],
+      [
+        "der Zusammenhang",
+        "context"
+      ],
+      [
+        "mitbekommen",
+        "to catch/understand"
+      ]
+    ],
+    "exercises": [
+      "What should you do BEFORE the audio plays?",
+      "How many times do you hear each text?",
+      "What's the most important thing to NOT do during listening?",
+      "Name 3 types of B1 listening content."
+    ],
+    "tip": "💡 Listening is the hardest skill to train. 10 minutes daily of German audio (Easy German, DW, podcasts) is more effective than 2 hours once a week.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-22",
+    "day": 88,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Mock: B1 Schreiben (Writing)",
+    "grammar_title": "B1 writing tasks — structure, timing, scoring",
+    "grammar_content": "B1 SCHREIBEN (60 min, 3 tasks):\n\n```\nTASK 1: Informal email (80 words)\n  - Reply to a friend's message\n  - Cover 3 bullet points\n\nTASK 2: Discussion post (80 words)\n  - Give your opinion on a forum topic\n  - State reasons and examples\n\nTASK 3: Formal email/letter (40 words)\n  - Short, polite request or apology\n  - Formal greeting and closing\n\nSCORING:\n✅ Task completion (did you answer all points?)\n✅ Coherence (structure, connectors)\n✅ Vocabulary (variety, appropriate register)\n✅ Grammar (accuracy of key structures)\n```",
+    "vocabulary": [
+      [
+        "die Aufgabe",
+        "task/exercise"
+      ],
+      [
+        "der Betreff",
+        "subject line"
+      ],
+      [
+        "die Anrede",
+        "salutation"
+      ],
+      [
+        "der Schlusssatz",
+        "closing sentence"
+      ],
+      [
+        "die Grußformel",
+        "closing formula"
+      ],
+      [
+        "das Stichwort",
+        "bullet point/keyword"
+      ],
+      [
+        "beantworten",
+        "to answer"
+      ],
+      [
+        "die Bewertung",
+        "evaluation/scoring"
+      ],
+      [
+        "die Wortzahl",
+        "word count"
+      ],
+      [
+        "einhalten",
+        "to adhere to/keep to"
+      ]
+    ],
+    "exercises": [
+      "How many writing tasks in B1?",
+      "What's the word count for Task 1?",
+      "Name the 4 scoring criteria.",
+      "What's the structure of a formal letter?"
+    ],
+    "tip": "💡 The #1 mistake in B1 writing: not answering ALL bullet points. Even if your German is perfect, missing a point loses marks. Check this first!",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-23",
+    "day": 89,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Mock: B1 Sprechen (Speaking)",
+    "grammar_title": "B1 speaking exam — preparation and strategy",
+    "grammar_content": "B1 SPRECHEN (15 min, usually with a partner):\n\n```\nTASK 1: Planning together (3 min)\n  - Plan an event/activity with your partner\n  - Make suggestions, agree/disagree, decide\n\nTASK 2: Presentation (3-4 min)\n  - Present a topic (you choose from options)\n  - Structure: intro, main points, conclusion, your opinion\n\nTASK 3: Discussion (2-3 min)\n  - Respond to your partner's presentation\n  - Ask a question, give feedback\n\nTIPS: Don't memorise! Sound natural. Use connectors. React to your partner.\n```",
+    "vocabulary": [
+      [
+        "der Vortrag",
+        "presentation"
+      ],
+      [
+        "vorschlagen",
+        "to suggest"
+      ],
+      [
+        "zustimmen",
+        "to agree"
+      ],
+      [
+        "widersprechen",
+        "to contradict"
+      ],
+      [
+        "der Gesprächspartner",
+        "conversation partner"
+      ],
+      [
+        "die Vorbereitungszeit",
+        "preparation time"
+      ],
+      [
+        "frei sprechen",
+        "to speak freely"
+      ],
+      [
+        "die Notizen",
+        "notes"
+      ],
+      [
+        "der Stichpunkt",
+        "bullet point"
+      ],
+      [
+        "sich vorbereiten",
+        "to prepare"
+      ]
+    ],
+    "exercises": [
+      "How many tasks in B1 Sprechen?",
+      "How long is the presentation?",
+      "What should you NOT do in the speaking exam?",
+      "What should you do when your partner speaks?"
+    ],
+    "tip": "💡 Smile, breathe, and remember: the examiner wants you to PASS. They're not looking for perfection — they're looking for communication.",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  },
+  {
+    "date": "2026-07-24",
+    "day": 90,
+    "level": "B1",
+    "phase": "B1 — Independent Expression",
+    "topic": "Congratulations: Your German Journey",
+    "grammar_title": "What you've achieved + where to go next",
+    "grammar_content": "YOU DID IT! 90 days from zero to B1 🎉\n\n```\nWHAT YOU CAN DO NOW:\n✅ Hold conversations on familiar topics\n✅ Express opinions with reasons\n✅ Understand the main points of news/radio\n✅ Write structured emails and forum posts\n✅ Handle most travel situations independently\n✅ Describe experiences, dreams, and plans\n\nNEXT STEPS:\n→ B2: Read newspapers, watch German TV without subtitles\n→ C1: Academic German, professional fluency\n→ Immersion: Visit Germany, join conversation groups\n→ Never stop: 10 min/day > 2 hours/weekend\n```\n\n📌 Language learning is a marathon, not a sprint. Keep going!",
+    "vocabulary": [
+      [
+        "die Reise",
+        "journey"
+      ],
+      [
+        "das Abenteuer",
+        "adventure"
+      ],
+      [
+        "der Erfolg",
+        "success"
+      ],
+      [
+        "die Errungenschaft",
+        "achievement"
+      ],
+      [
+        "durchhalten",
+        "to persevere"
+      ],
+      [
+        "weitermachen",
+        "to continue"
+      ],
+      [
+        "der Muttersprachler",
+        "native speaker"
+      ],
+      [
+        "fließend",
+        "fluent"
+      ],
+      [
+        "die Fremdsprache",
+        "foreign language"
+      ],
+      [
+        "nie aufgeben",
+        "never give up"
+      ]
+    ],
+    "exercises": [
+      "What's the next level after B1?",
+      "What can you do now that you couldn't 90 days ago?",
+      "What's your plan for continuing?",
+      "Most important language learning tip?"
+    ],
+    "tip": "💡 'Die Grenzen meiner Sprache sind die Grenzen meiner Welt.' — Ludwig Wittgenstein. (The limits of my language are the limits of my world.) 🇩🇪",
+    "speaking_hw": "Speak for 2-3 minutes on today's topic using the grammar and vocabulary. Record yourself.",
+    "writing_hw": "Write 100-150 words using today's grammar structure and vocabulary. Focus on complex sentences."
+  }
+]
