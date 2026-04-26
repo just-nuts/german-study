@@ -196,6 +196,70 @@ def append_log(line):
         f.write(f'[{ts}] {line}\n')
 
 
+def deploy_github_pages(git_token):
+    """Commit and push site/ changes to gh-pages branch."""
+    import subprocess as sp
+    import tempfile, shutil
+
+    repo = str(ROOT)
+    site = str(SITE_DIR)
+
+    # Write GIT_ASKPASS helper
+    askpass = ROOT / '.git_askpass.sh'
+    askpass.write_text(f'#!/bin/bash\necho {git_token}\n')
+    askpass.chmod(0o700)
+
+    env = {**__import__('os').environ,
+           'GIT_ASKPASS': str(askpass),
+           'GIT_USERNAME': 'just-nuts'}
+
+    def git(*args):
+        return sp.run(['git'] + list(args), cwd=repo,
+                       capture_output=True, text=True, timeout=30, env=env)
+
+    try:
+        # Stash any local changes on main
+        git('stash', '--include-untracked')
+
+        # Switch to gh-pages
+        git('checkout', 'gh-pages')
+
+        # Remove all tracked files
+        git('rm', '-rf', '.')
+
+        # Copy site contents to root
+        for item in __import__('os').listdir(site):
+            src = __import__('os').path.join(site, item)
+            dst = __import__('os').path.join(repo, item)
+            if __import__('os').path.isdir(src):
+                shutil.copytree(src, dst, dirs_exist_ok=True)
+            else:
+                shutil.copy2(src, dst)
+
+        # Ensure .nojekyll exists
+        (ROOT / '.nojekyll').write_text('')
+
+        # Commit
+        git('add', '-A')
+        today_str = __import__('datetime').date.today().isoformat()
+        r = git('commit', '-m', f'Update: {today_str}')
+        if r.returncode != 0 and 'nothing to commit' not in r.stdout + r.stderr:
+            raise RuntimeError(f'Commit failed: {r.stderr}')
+
+        # Push
+        r = git('push', 'origin', 'gh-pages')
+        if r.returncode != 0:
+            raise RuntimeError(f'Push failed: {r.stderr}')
+
+        # Back to main
+        git('checkout', 'main')
+        git('stash', 'pop')
+
+        return True
+    finally:
+        askpass.unlink(missing_ok=True)
+
+
 def main():
     ensure_dirs()
     config = load_json(CONFIG_PATH)
@@ -205,6 +269,16 @@ def main():
     TODAY_JSON.write_text(json.dumps(today_task, ensure_ascii=False, indent=2), encoding='utf-8')
     HTML_PATH.write_text(render_html(config, plan, today_task), encoding='utf-8')
     append_log(f"Site updated - Day {day_num} ({today_task['level']}: {today_task.get('topic','')})")
+
+    # Deploy to GitHub Pages
+    deploy_token_path = ROOT / '.deploy_token'
+    if deploy_token_path.exists():
+        try:
+            git_token = deploy_token_path.read_text().strip()
+            deploy_github_pages(git_token)
+            append_log(f"GitHub Pages deployed - {today_task.get('date','?')}")
+        except Exception as e:
+            append_log(f'GitHub Pages deploy failed: {e}')
 
     msg = format_lesson(today_task)
     print(msg)
