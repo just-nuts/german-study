@@ -209,8 +209,8 @@ def deploy_github_pages(git_token):
         tmp_site = _os.path.join(tmp, 'site')
         shutil.copytree(site, tmp_site)
 
-        # Write GIT_ASKPASS helper
-        askpass = ROOT / '.git_askpass.sh'
+        # Write GIT_ASKPASS helper OUTSIDE repo (avoid committing token)
+        askpass = ROOT.parent / '.git_askpass_deploy.sh'
         askpass.write_text(f'#!/bin/bash\necho {git_token}\n')
         askpass.chmod(0o700)
 
@@ -246,8 +246,10 @@ def deploy_github_pages(git_token):
             # Ensure .nojekyll
             (ROOT / '.nojekyll').write_text('')
 
+            # Stage only site content files (not askpass script, not .deploy_token)
+            git('add', 'index.html', 'plan.json', 'today.json', '.nojekyll')
+
             # Commit
-            git('add', '-A')
             today_str = __import__('datetime').date.today().isoformat()
             r = git('commit', '-m', f'Update: {today_str}')
             if r.returncode != 0 and 'nothing to commit' not in r.stdout + r.stderr:
